@@ -1,0 +1,26 @@
+{
+  "name": "express-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for a nodejs app with express and webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon start",
+    "webpack": "webpack --mode development --watch"
+  },
+  "author": "Gleb Husky",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.0",
+    "babel-loader": "^8.0.4",
+    "nodemon": "^1.18.9",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
