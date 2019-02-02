@@ -6,10 +6,13 @@ const app = express();
 
 app.use(express.static(path.join(__dirname, 'public')));
 app.get('/', (req, res) => {
+  res.sendFile('view/index.html', { root: __dirname });
+});
+
+app.get('/test-db-connection', (req, res) => {
   db.testConnection((err, data) => {
     if (err) throw err;
-    console.dir(data);
-    res.sendFile('view/index.html', { root: __dirname });
+    res.json(data);
   });
 });
 
