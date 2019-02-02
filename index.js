@@ -1,12 +1,17 @@
 const express = require('express');
 const path = require('path');
 const db = require('./dbaccess');
+const lisbonMetro = require('./data/lisbon-metro.json');
 const PORT = process.env.PORT || 5000;
 const app = express();
 
 app.use(express.static(path.join(__dirname, 'public')));
 app.get('/', (req, res) => {
   res.sendFile('view/index.html', { root: __dirname });
+});
+
+app.get('/lisbon-metro', (req, res) => {
+  res.json(lisbonMetro);
 });
 
 app.get('/test-db-connection', (req, res) => {
