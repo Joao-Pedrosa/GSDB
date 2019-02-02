@@ -1,0 +1,5326 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.5 2ca3f387",
+  "osm3s": {
+    "timestamp_osm_base": "2019-02-02T18:37:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 146311452,
+  "lat": 38.7932600,
+  "lon": -9.1730002,
+  "tags": {
+    "name": "Odivelas",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "yes",
+    "wikidata": "Q1668384"
+  }
+},
+{
+  "type": "node",
+  "id": 146311461,
+  "lat": 38.7856422,
+  "lon": -9.1718447,
+  "tags": {
+    "name": "Senhor Roubado",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "yes",
+    "wikidata": "Q2197407"
+  }
+},
+{
+  "type": "node",
+  "id": 245937922,
+  "lat": 38.7796411,
+  "lon": -9.1594571,
+  "tags": {
+    "name": "Ameixoeira",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q2298625"
+  }
+},
+{
+  "type": "node",
+  "id": 245937941,
+  "lat": 38.7727302,
+  "lon": -9.1601130,
+  "tags": {
+    "name": "Lumiar",
+    "operator": "Metropolitano de Lisboa",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "limited",
+    "wikidata": "Q374170"
+  }
+},
+{
+  "type": "node",
+  "id": 245937950,
+  "lat": 38.7674532,
+  "lon": -9.1555486,
+  "tags": {
+    "name": "Quinta das Conchas",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q2021240"
+  }
+},
+{
+  "type": "node",
+  "id": 245938001,
+  "lat": 38.7600193,
+  "lon": -9.1666963,
+  "tags": {
+    "name": "Telheiras",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q2092734"
+  }
+},
+{
+  "type": "node",
+  "id": 246763946,
+  "lat": 38.7515237,
+  "lon": -9.1590546,
+  "tags": {
+    "name": "Cidade Universitária",
+    "network": "Metropolitano de Lisboa",
+    "operator": "Metropolitano de Lisboa, E.P.E.",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "no",
+    "wikidata": "Q1989758"
+  }
+},
+{
+  "type": "node",
+  "id": 246763964,
+  "lat": 38.7470474,
+  "lon": -9.1482140,
+  "tags": {
+    "name": "Entrecampos",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "no",
+    "wikidata": "Q2301274",
+    "wikipedia": "pt:Estação Campo Grande (Metropolitano de Lisboa)"
+  }
+},
+{
+  "type": "node",
+  "id": 246763968,
+  "lat": 38.7411137,
+  "lon": -9.1467947,
+  "tags": {
+    "name": "Campo Pequeno",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "no",
+    "wikidata": "Q1787790"
+  }
+},
+{
+  "type": "node",
+  "id": 246763972,
+  "lat": 38.7351299,
+  "lon": -9.1451853,
+  "tags": {
+    "name": "Saldanha",
+    "operator": "Metropolitano de Lisboa",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "website": "http://www.metrolisboa.pt/informacao/planear-a-viagem/diagrama-e-mapa-de-rede/saldanha/",
+    "wheelchair": "yes",
+    "wikidata": "Q1246552",
+    "wikipedia": "pt:Estação Saldanha"
+  }
+},
+{
+  "type": "node",
+  "id": 247051839,
+  "lat": 38.7200603,
+  "lon": -9.1548735,
+  "tags": {
+    "name": "Rato",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "yes",
+    "wikidata": "Q1709447"
+  }
+},
+{
+  "type": "node",
+  "id": 256673563,
+  "lat": 38.7061368,
+  "lon": -9.1451115,
+  "tags": {
+    "name": "Cais do Sodré",
+    "operator": "Metropolitano de Lisboa",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "yes",
+    "wikidata": "Q389608"
+  }
+},
+{
+  "type": "node",
+  "id": 256673579,
+  "lat": 38.7140693,
+  "lon": -9.1379420,
+  "tags": {
+    "name": "Rossio",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 256673960,
+  "lat": 38.7070285,
+  "lon": -9.1343473,
+  "tags": {
+    "name": "Terreiro do Paço",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2038079",
+    "wikipedia": "pt:Estação Terreiro do Paço"
+  }
+},
+{
+  "type": "node",
+  "id": 256673972,
+  "lat": 38.7152996,
+  "lon": -9.1416368,
+  "tags": {
+    "layer": "-1",
+    "name": "Restauradores",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "yes",
+    "wikidata": "Q637915"
+  }
+},
+{
+  "type": "node",
+  "id": 256674213,
+  "lat": 38.7297972,
+  "lon": -9.1500806,
+  "tags": {
+    "name": "Parque",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "website": "http://www.metrolisboa.pt/informacao/planear-a-viagem/diagrama-e-mapa-de-rede/parque/",
+    "wheelchair": "no",
+    "wikidata": "Q2033301",
+    "wikipedia": "pt:Estação Parque"
+  }
+},
+{
+  "type": "node",
+  "id": 256674870,
+  "lat": 38.7262651,
+  "lon": -9.1349411,
+  "tags": {
+    "name": "Anjos",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "no",
+    "wikidata": "Q1265848"
+  }
+},
+{
+  "type": "node",
+  "id": 256674873,
+  "lat": 38.7373541,
+  "lon": -9.1337842,
+  "tags": {
+    "name": "Alameda",
+    "operator": "Metropolitano de Lisboa",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q611831"
+  }
+},
+{
+  "type": "node",
+  "id": 256675147,
+  "lat": 38.7335128,
+  "lon": -9.1342227,
+  "tags": {
+    "name": "Arroios",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "no",
+    "wikidata": "Q1848374"
+  }
+},
+{
+  "type": "node",
+  "id": 256971868,
+  "lat": 38.7486692,
+  "lon": -9.1415844,
+  "tags": {
+    "name": "Roma",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "yes",
+    "wikidata": "Q1252781"
+  }
+},
+{
+  "type": "node",
+  "id": 256971869,
+  "lat": 38.7530340,
+  "lon": -9.1439777,
+  "tags": {
+    "name": "Alvalade",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "yes",
+    "wikidata": "Q1690706"
+  }
+},
+{
+  "type": "node",
+  "id": 256972634,
+  "lat": 38.7394453,
+  "lon": -9.1239422,
+  "tags": {
+    "name": "Olaias",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q388345"
+  }
+},
+{
+  "type": "node",
+  "id": 256975148,
+  "lat": 38.7475415,
+  "lon": -9.1176782,
+  "tags": {
+    "name": "Bela Vista",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q2894181"
+  }
+},
+{
+  "type": "node",
+  "id": 256975157,
+  "lat": 38.7548276,
+  "lon": -9.1138872,
+  "tags": {
+    "name": "Chelas",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "yes",
+    "wikidata": "Q1260646"
+  }
+},
+{
+  "type": "node",
+  "id": 256975161,
+  "lat": 38.7608482,
+  "lon": -9.1117135,
+  "tags": {
+    "name": "Olivais",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q376192"
+  }
+},
+{
+  "type": "node",
+  "id": 256975169,
+  "lat": 38.7629382,
+  "lon": -9.1040538,
+  "tags": {
+    "name": "Cabo Ruivo",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q1475262"
+  }
+},
+{
+  "type": "node",
+  "id": 256975177,
+  "lat": 38.7678191,
+  "lon": -9.0999720,
+  "tags": {
+    "name": "Oriente",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q1582162"
+  }
+},
+{
+  "type": "node",
+  "id": 256976570,
+  "lat": 38.7343017,
+  "lon": -9.1539497,
+  "tags": {
+    "name": "São Sebastião",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 256976574,
+  "lat": 38.7377417,
+  "lon": -9.1592294,
+  "tags": {
+    "name": "Praça de Espanha",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q605303"
+  }
+},
+{
+  "type": "node",
+  "id": 256978160,
+  "lat": 38.7420882,
+  "lon": -9.1689132,
+  "tags": {
+    "name": "Jardim Zoológico",
+    "name:de": "Zoologischer Garten",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway"
+  }
+},
+{
+  "type": "node",
+  "id": 256978165,
+  "lat": 38.7482497,
+  "lon": -9.1730362,
+  "tags": {
+    "name": "Laranjeiras",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q962631"
+  }
+},
+{
+  "type": "node",
+  "id": 256978170,
+  "lat": 38.7498954,
+  "lon": -9.1797946,
+  "tags": {
+    "name": "Alto dos Moínhos",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q639045"
+  }
+},
+{
+  "type": "node",
+  "id": 256978583,
+  "lat": 38.7534253,
+  "lon": -9.1892531,
+  "tags": {
+    "name": "Colégio Militar/Luz",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q1427832"
+  }
+},
+{
+  "type": "node",
+  "id": 256979289,
+  "lat": 38.7592057,
+  "lon": -9.1926491,
+  "tags": {
+    "name": "Carnide",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q1659995"
+  }
+},
+{
+  "type": "node",
+  "id": 256981317,
+  "lat": 38.7622108,
+  "lon": -9.1968418,
+  "tags": {
+    "name": "Pontinha",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q1758355"
+  }
+},
+{
+  "type": "node",
+  "id": 256981321,
+  "lat": 38.7603326,
+  "lon": -9.2043586,
+  "tags": {
+    "name": "Alfornelos",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q511829"
+  }
+},
+{
+  "type": "node",
+  "id": 256981325,
+  "lat": 38.7583909,
+  "lon": -9.2183167,
+  "tags": {
+    "name": "Amadora Este",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q1399674"
+  }
+},
+{
+  "type": "node",
+  "id": 265896596,
+  "lat": 38.7310021,
+  "lon": -9.1465250,
+  "tags": {
+    "covered": "yes",
+    "name": "Picoas",
+    "operator": "Metropolitano de Lisboa",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "website": "http://www.metrolisboa.pt/informacao/planear-a-viagem/diagrama-e-mapa-de-rede/picoas/",
+    "wheelchair": "no",
+    "wikidata": "Q1280920",
+    "wikipedia": "pt:Estação Picoas"
+  }
+},
+{
+  "type": "node",
+  "id": 265897891,
+  "lat": 38.7169196,
+  "lon": -9.1358945,
+  "tags": {
+    "name": "Martim Moniz",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "no",
+    "wikidata": "Q473021"
+  }
+},
+{
+  "type": "node",
+  "id": 265897892,
+  "lat": 38.7226276,
+  "lon": -9.1353016,
+  "tags": {
+    "name": "Intendente",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "no",
+    "wikidata": "Q1848345"
+  }
+},
+{
+  "type": "node",
+  "id": 600134721,
+  "lat": 38.7190102,
+  "lon": -9.1448310,
+  "tags": {
+    "name": "Avenida",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "no",
+    "wikidata": "Q430125"
+  }
+},
+{
+  "type": "node",
+  "id": 1465237705,
+  "lat": 38.7423786,
+  "lon": -9.1333962,
+  "tags": {
+    "name": "Areeiro",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q1815575"
+  }
+},
+{
+  "type": "node",
+  "id": 1696909109,
+  "lat": 38.7136966,
+  "lon": -9.1224184,
+  "tags": {
+    "layer": "-1",
+    "name": "Santa Apolónia",
+    "network": "Metro de Lisboa",
+    "operator": "Metropolitano de Lisboa",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1829104217,
+  "lat": 38.7690806,
+  "lon": -9.1284699,
+  "tags": {
+    "name": "Aeroporto",
+    "name:de": "Flughafen",
+    "name:en": "Airport",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q744682"
+  }
+},
+{
+  "type": "node",
+  "id": 1831350950,
+  "lat": 38.7751551,
+  "lon": -9.1156265,
+  "tags": {
+    "name": "Encarnação",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q1631812"
+  }
+},
+{
+  "type": "node",
+  "id": 1831350952,
+  "lat": 38.7748627,
+  "lon": -9.1029945,
+  "tags": {
+    "name": "Moscavide",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q568050"
+  }
+},
+{
+  "type": "node",
+  "id": 4119252201,
+  "lat": 38.7523013,
+  "lon": -9.2240282,
+  "tags": {
+    "name": "Reboleira",
+    "operator": "Metropolitano de Lisboa",
+    "platforms": "2",
+    "railway": "station",
+    "station": "subway"
+  }
+},
+{
+  "type": "node",
+  "id": 5185768824,
+  "lat": 38.7105436,
+  "lon": -9.1400971,
+  "tags": {
+    "name": "Baixa-Chiado",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q2300323"
+  }
+},
+{
+  "type": "node",
+  "id": 5216412760,
+  "lat": 38.7601887,
+  "lon": -9.1578770,
+  "tags": {
+    "name": "Campo Grande",
+    "name:de": "Großes Feld",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "no",
+    "wikidata": "Q2301274"
+  }
+},
+{
+  "type": "node",
+  "id": 6238721706,
+  "lat": 38.7089481,
+  "lon": -9.1532909,
+  "tags": {
+    "name": "Santos",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway"
+  }
+},
+{
+  "type": "node",
+  "id": 6238721709,
+  "lat": 38.7129797,
+  "lon": -9.1582980,
+  "tags": {
+    "name": "Estrela",
+    "operator": "Metropolitano de Lisboa",
+    "railway": "station",
+    "station": "subway"
+  }
+},
+{
+  "type": "relation",
+  "id": 370761,
+  "members": [
+    {
+      "type": "node",
+      "ref": 247051839,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 265896596,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 246763972,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 246763968,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 246763964,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 246763946,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5216412760,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 245937950,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 245937941,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 245937922,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 146311461,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 146311452,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5938124258,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 638620593,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 638620592,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 666365912,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 96722045,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 96722041,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 22917441,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 637367434,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 637375699,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 584763816,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 96730129,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 96730109,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 22875901,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 22875900,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 584763791,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 14813738,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 96874727,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 96874723,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 14813737,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 14813734,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 14813733,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 96874721,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "colour": "#F4BC18",
+    "name": "Linha Amarela: Rato → Odivelas",
+    "operator": "Metropolitano de Lisboa",
+    "ref": "Amarela",
+    "route": "subway",
+    "type": "route",
+    "wikidata": "Q1826607",
+    "wikipedia": "pt:Linha Amarela (Metropolitano de Lisboa)"
+  }
+},
+{
+  "type": "relation",
+  "id": 371021,
+  "members": [
+    {
+      "type": "way",
+      "ref": 23704556,
+      "role": ""
+    },
+    {
+      "type": "node",
+      "ref": 1696909109,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256673960,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5185768824,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256673972,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 600134721,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256674213,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256976570,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256976574,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256978160,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256978165,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256978170,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256978583,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256979289,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256981317,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256981321,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256981325,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 4119252201,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5938124259,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "colour": "#5E82C4",
+    "name": "Linha Azul: Santa Apolónia → Reboleira",
+    "operator": "Metropolitano de Lisboa",
+    "ref": "Azul",
+    "route": "subway",
+    "type": "route",
+    "wikidata": "Q1826609",
+    "wikipedia": "pt:Linha Azul (Metropolitano de Lisboa)"
+  }
+},
+{
+  "type": "relation",
+  "id": 371080,
+  "members": [
+    {
+      "type": "way",
+      "ref": 23704509,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 584733306,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 22875903,
+      "role": ""
+    },
+    {
+      "type": "node",
+      "ref": 256673563,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5185768824,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256673579,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 265897891,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 265897892,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256674870,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256675147,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256674873,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1465237705,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256971868,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256971869,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5216412760,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 245938001,
+      "role": "stop"
+    }
+  ],
+  "tags": {
+    "colour": "#2F9B9C",
+    "name": "Linha Verde: Cais do Sodré → Telheiras",
+    "operator": "Metropolitano de Lisboa",
+    "ref": "Verde",
+    "route": "subway",
+    "type": "route",
+    "wikidata": "Q1826613",
+    "wikipedia": "pt:Linha Verde (Metropolitano de Lisboa)"
+  }
+},
+{
+  "type": "relation",
+  "id": 371084,
+  "members": [
+    {
+      "type": "way",
+      "ref": 24789521,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 23727714,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 23727716,
+      "role": ""
+    },
+    {
+      "type": "node",
+      "ref": 256976570,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 246763972,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256674873,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256972634,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256975148,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256975157,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256975161,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256975169,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256975177,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1831350952,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1831350950,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1829104217,
+      "role": "stop"
+    }
+  ],
+  "tags": {
+    "colour": "#DF096F",
+    "name": "Linha Vermelha: São Sebastião → Aeroporto",
+    "operator": "Metropolitano de Lisboa",
+    "ref": "Vermelha",
+    "route": "subway",
+    "type": "route",
+    "wikidata": "Q163215",
+    "wikipedia": "pt:Linha Vermelha (Metropolitano de Lisboa)"
+  }
+},
+{
+  "type": "relation",
+  "id": 7734159,
+  "members": [
+    {
+      "type": "way",
+      "ref": 23727716,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 23727714,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 24789521,
+      "role": ""
+    },
+    {
+      "type": "node",
+      "ref": 1829104217,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1831350950,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1831350952,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256975177,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256975169,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256975161,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256975157,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256975148,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256972634,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256674873,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 246763972,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256976570,
+      "role": "stop"
+    }
+  ],
+  "tags": {
+    "colour": "#DF096F",
+    "name": "Linha Vermelha: Aeroporto → São Sebastião",
+    "operator": "Metropolitano de Lisboa",
+    "ref": "Vermelha",
+    "route": "subway",
+    "type": "route",
+    "wikidata": "Q163215",
+    "wikipedia": "pt:Linha Vermelha (Metropolitano de Lisboa)"
+  }
+},
+{
+  "type": "relation",
+  "id": 7734160,
+  "members": [
+    {
+      "type": "way",
+      "ref": 22875903,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 22875902,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 584763811,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 23704509,
+      "role": ""
+    },
+    {
+      "type": "node",
+      "ref": 245938001,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5216412760,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256971869,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256971868,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1465237705,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256674873,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256675147,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256674870,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 265897892,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 265897891,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256673579,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5185768824,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256673563,
+      "role": "stop"
+    }
+  ],
+  "tags": {
+    "colour": "#2F9B9C",
+    "name": "Linha Verde: Telheiras → Cais do Sodré",
+    "operator": "Metropolitano de Lisboa",
+    "ref": "Verde",
+    "route": "subway",
+    "type": "route",
+    "wikidata": "Q1826613",
+    "wikipedia": "pt:Linha Verde (Metropolitano de Lisboa)"
+  }
+},
+{
+  "type": "relation",
+  "id": 7734161,
+  "members": [
+    {
+      "type": "way",
+      "ref": 23704556,
+      "role": "backward"
+    },
+    {
+      "type": "node",
+      "ref": 4119252201,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256981325,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256981321,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256981317,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256979289,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256978583,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256978170,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256978165,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256978160,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256976574,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256976570,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256674213,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 600134721,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256673972,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5185768824,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 256673960,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1696909109,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5938124259,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "colour": "#5E82C4",
+    "name": "Linha Azul: Reboleira → Santa Apolónia",
+    "operator": "Metropolitano de Lisboa",
+    "ref": "Azul",
+    "route": "subway",
+    "type": "route",
+    "wikidata": "Q1826609",
+    "wikipedia": "pt:Linha Azul (Metropolitano de Lisboa)"
+  }
+},
+{
+  "type": "relation",
+  "id": 7734162,
+  "members": [
+    {
+      "type": "node",
+      "ref": 146311452,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 146311461,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 245937922,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 245937941,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 245937950,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5216412760,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 246763946,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 246763964,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 246763968,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 246763972,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 265896596,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 247051839,
+      "role": "stop"
+    },
+    {
+      "type": "way",
+      "ref": 96874721,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 14813733,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 14813734,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 14813737,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 96874723,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 96874727,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 14813738,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 584763791,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 22875900,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 584733305,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 584739902,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 584733308,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 584739903,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 22917441,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 637367434,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 637375699,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 96722041,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 638620593,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 638620591,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 666365912,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 96722045,
+      "role": ""
+    },
+    {
+      "type": "node",
+      "ref": 6018580829,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "colour": "#F4BC18",
+    "name": "Linha Amarela: Odivelas → Rato",
+    "operator": "Metropolitano de Lisboa",
+    "ref": "Amarela",
+    "route": "subway",
+    "type": "route",
+    "wikidata": "Q1826607",
+    "wikipedia": "pt:Linha Amarela (Metropolitano de Lisboa)"
+  }
+},
+{
+  "type": "node",
+  "id": 6238721703,
+  "lat": 38.7064225,
+  "lon": -9.1500533
+},
+{
+  "type": "node",
+  "id": 6238721704,
+  "lat": 38.7067786,
+  "lon": -9.1517508
+},
+{
+  "type": "node",
+  "id": 6238721705,
+  "lat": 38.7077156,
+  "lon": -9.1528844
+},
+{
+  "type": "node",
+  "id": 256673563,
+  "lat": 38.7061368,
+  "lon": -9.1451115
+},
+{
+  "type": "node",
+  "id": 256673564,
+  "lat": 38.7061862,
+  "lon": -9.1435535
+},
+{
+  "type": "node",
+  "id": 256673565,
+  "lat": 38.7063652,
+  "lon": -9.1429047
+},
+{
+  "type": "node",
+  "id": 5895322563,
+  "lat": 38.7061248,
+  "lon": -9.1445173
+},
+{
+  "type": "node",
+  "id": 6001706462,
+  "lat": 38.7061230,
+  "lon": -9.1443715
+},
+{
+  "type": "node",
+  "id": 6001707692,
+  "lat": 38.7061272,
+  "lon": -9.1442594
+},
+{
+  "type": "node",
+  "id": 256673567,
+  "lat": 38.7066827,
+  "lon": -9.1421295
+},
+{
+  "type": "node",
+  "id": 256673963,
+  "lat": 38.7063238,
+  "lon": -9.1366017
+},
+{
+  "type": "node",
+  "id": 256673965,
+  "lat": 38.7067101,
+  "lon": -9.1385462
+},
+{
+  "type": "node",
+  "id": 256673966,
+  "lat": 38.7072700,
+  "lon": -9.1392974
+},
+{
+  "type": "node",
+  "id": 1116365489,
+  "lat": 38.7081401,
+  "lon": -9.1396319
+},
+{
+  "type": "node",
+  "id": 1933844170,
+  "lat": 38.7070850,
+  "lon": -9.1414115
+},
+{
+  "type": "node",
+  "id": 1933844173,
+  "lat": 38.7076855,
+  "lon": -9.1406400
+},
+{
+  "type": "node",
+  "id": 5895322561,
+  "lat": 38.7084761,
+  "lon": -9.1400886
+},
+{
+  "type": "node",
+  "id": 5895322562,
+  "lat": 38.7080470,
+  "lon": -9.1402978
+},
+{
+  "type": "node",
+  "id": 5895322569,
+  "lat": 38.7076608,
+  "lon": -9.1395068
+},
+{
+  "type": "node",
+  "id": 5895322570,
+  "lat": 38.7069837,
+  "lon": -9.1389969
+},
+{
+  "type": "node",
+  "id": 5895322571,
+  "lat": 38.7065337,
+  "lon": -9.1381010
+},
+{
+  "type": "node",
+  "id": 5895322572,
+  "lat": 38.7063265,
+  "lon": -9.1371086
+},
+{
+  "type": "node",
+  "id": 5895322573,
+  "lat": 38.7063935,
+  "lon": -9.1376102
+},
+{
+  "type": "node",
+  "id": 5895322574,
+  "lat": 38.7063757,
+  "lon": -9.1361122
+},
+{
+  "type": "node",
+  "id": 256673959,
+  "lat": 38.7076694,
+  "lon": -9.1329005
+},
+{
+  "type": "node",
+  "id": 256673960,
+  "lat": 38.7070285,
+  "lon": -9.1343473
+},
+{
+  "type": "node",
+  "id": 1124064445,
+  "lat": 38.7065191,
+  "lon": -9.1356063
+},
+{
+  "type": "node",
+  "id": 5854351027,
+  "lat": 38.7073427,
+  "lon": -9.1335707
+},
+{
+  "type": "node",
+  "id": 4119252201,
+  "lat": 38.7523013,
+  "lon": -9.2240282
+},
+{
+  "type": "node",
+  "id": 4119256419,
+  "lat": 38.7538065,
+  "lon": -9.2233490
+},
+{
+  "type": "node",
+  "id": 4119256416,
+  "lat": 38.7572703,
+  "lon": -9.2213068
+},
+{
+  "type": "node",
+  "id": 4119256417,
+  "lat": 38.7565771,
+  "lon": -9.2222520
+},
+{
+  "type": "node",
+  "id": 256981325,
+  "lat": 38.7583909,
+  "lon": -9.2183167
+},
+{
+  "type": "node",
+  "id": 4119256414,
+  "lat": 38.7576329,
+  "lon": -9.2206749
+},
+{
+  "type": "node",
+  "id": 4119256415,
+  "lat": 38.7579806,
+  "lon": -9.2198439
+},
+{
+  "type": "node",
+  "id": 4119256418,
+  "lat": 38.7581667,
+  "lon": -9.2193676
+},
+{
+  "type": "node",
+  "id": 1122550680,
+  "lat": 38.7606418,
+  "lon": -9.2090528
+},
+{
+  "type": "node",
+  "id": 1122550853,
+  "lat": 38.7604787,
+  "lon": -9.2101975
+},
+{
+  "type": "node",
+  "id": 256981320,
+  "lat": 38.7601214,
+  "lon": -9.2027249
+},
+{
+  "type": "node",
+  "id": 256981321,
+  "lat": 38.7603326,
+  "lon": -9.2043586
+},
+{
+  "type": "node",
+  "id": 1122550801,
+  "lat": 38.7607556,
+  "lon": -9.2067547
+},
+{
+  "type": "node",
+  "id": 1122550804,
+  "lat": 38.7607702,
+  "lon": -9.2077481
+},
+{
+  "type": "node",
+  "id": 1122550884,
+  "lat": 38.7602126,
+  "lon": -9.2017620
+},
+{
+  "type": "node",
+  "id": 256978583,
+  "lat": 38.7534253,
+  "lon": -9.1892531
+},
+{
+  "type": "node",
+  "id": 4638148697,
+  "lat": 38.7537815,
+  "lon": -9.1899086
+},
+{
+  "type": "node",
+  "id": 4638148698,
+  "lat": 38.7540514,
+  "lon": -9.1902841
+},
+{
+  "type": "node",
+  "id": 1122550943,
+  "lat": 38.7606163,
+  "lon": -9.2009246
+},
+{
+  "type": "node",
+  "id": 1122551020,
+  "lat": 38.7612362,
+  "lon": -9.2001403
+},
+{
+  "type": "node",
+  "id": 256979284,
+  "lat": 38.7553170,
+  "lon": -9.1928073
+},
+{
+  "type": "node",
+  "id": 256979285,
+  "lat": 38.7554936,
+  "lon": -9.1934111
+},
+{
+  "type": "node",
+  "id": 256979286,
+  "lat": 38.7570937,
+  "lon": -9.1940499
+},
+{
+  "type": "node",
+  "id": 256979289,
+  "lat": 38.7592057,
+  "lon": -9.1926491
+},
+{
+  "type": "node",
+  "id": 256981312,
+  "lat": 38.7609530,
+  "lon": -9.1914575
+},
+{
+  "type": "node",
+  "id": 505812296,
+  "lat": 38.7586863,
+  "lon": -9.1930628
+},
+{
+  "type": "node",
+  "id": 1104951050,
+  "lat": 38.7576729,
+  "lon": -9.1937733
+},
+{
+  "type": "node",
+  "id": 1122550937,
+  "lat": 38.7604188,
+  "lon": -9.1917370
+},
+{
+  "type": "node",
+  "id": 1124213942,
+  "lat": 38.7564014,
+  "lon": -9.1942050
+},
+{
+  "type": "node",
+  "id": 1124213951,
+  "lat": 38.7557400,
+  "lon": -9.1937900
+},
+{
+  "type": "node",
+  "id": 1124214019,
+  "lat": 38.7566936,
+  "lon": -9.1942074
+},
+{
+  "type": "node",
+  "id": 1124214157,
+  "lat": 38.7560174,
+  "lon": -9.1940478
+},
+{
+  "type": "node",
+  "id": 4638148699,
+  "lat": 38.7547353,
+  "lon": -9.1915554
+},
+{
+  "type": "node",
+  "id": 256978580,
+  "lat": 38.7503044,
+  "lon": -9.1832471
+},
+{
+  "type": "node",
+  "id": 256978581,
+  "lat": 38.7507801,
+  "lon": -9.1843579
+},
+{
+  "type": "node",
+  "id": 1124214037,
+  "lat": 38.7500709,
+  "lon": -9.1817363
+},
+{
+  "type": "node",
+  "id": 256978169,
+  "lat": 38.7498372,
+  "lon": -9.1756784
+},
+{
+  "type": "node",
+  "id": 256978170,
+  "lat": 38.7498954,
+  "lon": -9.1797946
+},
+{
+  "type": "node",
+  "id": 6238721707,
+  "lat": 38.7117866,
+  "lon": -9.1556028
+},
+{
+  "type": "node",
+  "id": 6238721708,
+  "lat": 38.7124387,
+  "lon": -9.1566540
+},
+{
+  "type": "node",
+  "id": 6238721709,
+  "lat": 38.7129797,
+  "lon": -9.1582980
+},
+{
+  "type": "node",
+  "id": 6238721710,
+  "lat": 38.7135083,
+  "lon": -9.1594172
+},
+{
+  "type": "node",
+  "id": 6238721711,
+  "lat": 38.7141807,
+  "lon": -9.1595763
+},
+{
+  "type": "node",
+  "id": 6238721712,
+  "lat": 38.7150359,
+  "lon": -9.1594288
+},
+{
+  "type": "node",
+  "id": 6238721706,
+  "lat": 38.7089481,
+  "lon": -9.1532909
+},
+{
+  "type": "node",
+  "id": 6251697745,
+  "lat": 38.7106215,
+  "lon": -9.1543976
+},
+{
+  "type": "node",
+  "id": 6251697747,
+  "lat": 38.7095994,
+  "lon": -9.1539890
+},
+{
+  "type": "node",
+  "id": 264141144,
+  "lat": 38.7198903,
+  "lon": -9.1555655
+},
+{
+  "type": "node",
+  "id": 6238721713,
+  "lat": 38.7164575,
+  "lon": -9.1582778
+},
+{
+  "type": "node",
+  "id": 6238721714,
+  "lat": 38.7176195,
+  "lon": -9.1573914
+},
+{
+  "type": "node",
+  "id": 6238721715,
+  "lat": 38.7195616,
+  "lon": -9.1559477
+},
+{
+  "type": "node",
+  "id": 247051836,
+  "lat": 38.7208982,
+  "lon": -9.1528513
+},
+{
+  "type": "node",
+  "id": 247051838,
+  "lat": 38.7202643,
+  "lon": -9.1541443
+},
+{
+  "type": "node",
+  "id": 247051839,
+  "lat": 38.7200603,
+  "lon": -9.1548735
+},
+{
+  "type": "node",
+  "id": 1120090985,
+  "lat": 38.7212163,
+  "lon": -9.1525166
+},
+{
+  "type": "node",
+  "id": 1120110528,
+  "lat": 38.7206120,
+  "lon": -9.1534249
+},
+{
+  "type": "node",
+  "id": 256674205,
+  "lat": 38.7257338,
+  "lon": -9.1496184
+},
+{
+  "type": "node",
+  "id": 256674207,
+  "lat": 38.7279274,
+  "lon": -9.1495443
+},
+{
+  "type": "node",
+  "id": 1120090984,
+  "lat": 38.7261977,
+  "lon": -9.1495148
+},
+{
+  "type": "node",
+  "id": 1120090994,
+  "lat": 38.7251793,
+  "lon": -9.1500045
+},
+{
+  "type": "node",
+  "id": 4694358981,
+  "lat": 38.7267378,
+  "lon": -9.1495664
+},
+{
+  "type": "node",
+  "id": 5938116031,
+  "lat": 38.7241953,
+  "lon": -9.1506562
+},
+{
+  "type": "node",
+  "id": 5938117132,
+  "lat": 38.7249055,
+  "lon": -9.1494300
+},
+{
+  "type": "node",
+  "id": 5938124255,
+  "lat": 38.7237160,
+  "lon": -9.1488826
+},
+{
+  "type": "node",
+  "id": 5938124258,
+  "lat": 38.7247171,
+  "lon": -9.1503309
+},
+{
+  "type": "node",
+  "id": 5938124259,
+  "lat": 38.7242853,
+  "lon": -9.1491945
+},
+{
+  "type": "node",
+  "id": 5938124260,
+  "lat": 38.7257992,
+  "lon": -9.1497466
+},
+{
+  "type": "node",
+  "id": 6014349443,
+  "lat": 38.7250695,
+  "lon": -9.1494673
+},
+{
+  "type": "node",
+  "id": 6014349448,
+  "lat": 38.7260870,
+  "lon": -9.1495792
+},
+{
+  "type": "node",
+  "id": 6014349451,
+  "lat": 38.7265246,
+  "lon": -9.1495774
+},
+{
+  "type": "node",
+  "id": 6014349455,
+  "lat": 38.7256205,
+  "lon": -9.1498315
+},
+{
+  "type": "node",
+  "id": 6018580829,
+  "lat": 38.7247048,
+  "lon": -9.1503014
+},
+{
+  "type": "node",
+  "id": 6018580830,
+  "lat": 38.7251347,
+  "lon": -9.1500552
+},
+{
+  "type": "node",
+  "id": 6018580831,
+  "lat": 38.7251219,
+  "lon": -9.1500259
+},
+{
+  "type": "node",
+  "id": 6018580832,
+  "lat": 38.7242877,
+  "lon": -9.1505769
+},
+{
+  "type": "node",
+  "id": 6018580833,
+  "lat": 38.7242995,
+  "lon": -9.1506066
+},
+{
+  "type": "node",
+  "id": 6018693970,
+  "lat": 38.7251722,
+  "lon": -9.1500299
+},
+{
+  "type": "node",
+  "id": 6018693971,
+  "lat": 38.7251594,
+  "lon": -9.1500006
+},
+{
+  "type": "node",
+  "id": 6018693982,
+  "lat": 38.7242250,
+  "lon": -9.1506561
+},
+{
+  "type": "node",
+  "id": 6018693983,
+  "lat": 38.7242136,
+  "lon": -9.1506261
+},
+{
+  "type": "node",
+  "id": 256674213,
+  "lat": 38.7297972,
+  "lon": -9.1500806
+},
+{
+  "type": "node",
+  "id": 256976570,
+  "lat": 38.7343017,
+  "lon": -9.1539497
+},
+{
+  "type": "node",
+  "id": 1110776460,
+  "lat": 38.7348034,
+  "lon": -9.1526679
+},
+{
+  "type": "node",
+  "id": 1120091025,
+  "lat": 38.7286139,
+  "lon": -9.1496669
+},
+{
+  "type": "node",
+  "id": 1123843289,
+  "lat": 38.7349053,
+  "lon": -9.1522005
+},
+{
+  "type": "node",
+  "id": 1123843468,
+  "lat": 38.7349808,
+  "lon": -9.1512649
+},
+{
+  "type": "node",
+  "id": 3932495313,
+  "lat": 38.7349514,
+  "lon": -9.1518108
+},
+{
+  "type": "node",
+  "id": 224955560,
+  "lat": 38.7096167,
+  "lon": -9.1398750
+},
+{
+  "type": "node",
+  "id": 256673569,
+  "lat": 38.7089653,
+  "lon": -9.1400573
+},
+{
+  "type": "node",
+  "id": 256673570,
+  "lat": 38.7096087,
+  "lon": -9.1401367
+},
+{
+  "type": "node",
+  "id": 256673575,
+  "lat": 38.7113335,
+  "lon": -9.1403862
+},
+{
+  "type": "node",
+  "id": 256673576,
+  "lat": 38.7123109,
+  "lon": -9.1405041
+},
+{
+  "type": "node",
+  "id": 256673577,
+  "lat": 38.7134154,
+  "lon": -9.1398477
+},
+{
+  "type": "node",
+  "id": 256673578,
+  "lat": 38.7139117,
+  "lon": -9.1387005
+},
+{
+  "type": "node",
+  "id": 256673579,
+  "lat": 38.7140693,
+  "lon": -9.1379420
+},
+{
+  "type": "node",
+  "id": 256673969,
+  "lat": 38.7124523,
+  "lon": -9.1402357
+},
+{
+  "type": "node",
+  "id": 256673970,
+  "lat": 38.7130745,
+  "lon": -9.1404067
+},
+{
+  "type": "node",
+  "id": 256673971,
+  "lat": 38.7145894,
+  "lon": -9.1411024
+},
+{
+  "type": "node",
+  "id": 256673972,
+  "lat": 38.7152996,
+  "lon": -9.1416368
+},
+{
+  "type": "node",
+  "id": 1120611090,
+  "lat": 38.7148426,
+  "lon": -9.1363808
+},
+{
+  "type": "node",
+  "id": 1122758176,
+  "lat": 38.7136735,
+  "lon": -9.1393551
+},
+{
+  "type": "node",
+  "id": 3989338976,
+  "lat": 38.7142116,
+  "lon": -9.1372570
+},
+{
+  "type": "node",
+  "id": 3989338978,
+  "lat": 38.7144290,
+  "lon": -9.1367246
+},
+{
+  "type": "node",
+  "id": 5185768824,
+  "lat": 38.7105436,
+  "lon": -9.1400971
+},
+{
+  "type": "node",
+  "id": 5895322559,
+  "lat": 38.7126976,
+  "lon": -9.1404574
+},
+{
+  "type": "node",
+  "id": 5895322560,
+  "lat": 38.7113749,
+  "lon": -9.1400832
+},
+{
+  "type": "node",
+  "id": 5895322565,
+  "lat": 38.7146251,
+  "lon": -9.1365011
+},
+{
+  "type": "node",
+  "id": 5895322566,
+  "lat": 38.7143028,
+  "lon": -9.1369745
+},
+{
+  "type": "node",
+  "id": 5895322567,
+  "lat": 38.7131015,
+  "lon": -9.1402066
+},
+{
+  "type": "node",
+  "id": 5895322568,
+  "lat": 38.7136949,
+  "lon": -9.1406491
+},
+{
+  "type": "node",
+  "id": 600134721,
+  "lat": 38.7190102,
+  "lon": -9.1448310
+},
+{
+  "type": "node",
+  "id": 5934212180,
+  "lat": 38.7187602,
+  "lon": -9.1446080
+},
+{
+  "type": "node",
+  "id": 256673584,
+  "lat": 38.7163499,
+  "lon": -9.1359339
+},
+{
+  "type": "node",
+  "id": 265897891,
+  "lat": 38.7169196,
+  "lon": -9.1358945
+},
+{
+  "type": "node",
+  "id": 1508122644,
+  "lat": 38.7091042,
+  "lon": -9.1297245
+},
+{
+  "type": "node",
+  "id": 256673956,
+  "lat": 38.7118298,
+  "lon": -9.1249444
+},
+{
+  "type": "node",
+  "id": 256673957,
+  "lat": 38.7105266,
+  "lon": -9.1276421
+},
+{
+  "type": "node",
+  "id": 1117990566,
+  "lat": 38.7127766,
+  "lon": -9.1233925
+},
+{
+  "type": "node",
+  "id": 1118902563,
+  "lat": 38.7095497,
+  "lon": -9.1290144
+},
+{
+  "type": "node",
+  "id": 1118902571,
+  "lat": 38.7111062,
+  "lon": -9.1265662
+},
+{
+  "type": "node",
+  "id": 3946347395,
+  "lat": 38.7198016,
+  "lon": -9.1355593
+},
+{
+  "type": "node",
+  "id": 256674204,
+  "lat": 38.7232119,
+  "lon": -9.1483738
+},
+{
+  "type": "node",
+  "id": 1120090949,
+  "lat": 38.7277757,
+  "lon": -9.1485304
+},
+{
+  "type": "node",
+  "id": 1120090990,
+  "lat": 38.7281928,
+  "lon": -9.1482595
+},
+{
+  "type": "node",
+  "id": 1120091033,
+  "lat": 38.7283528,
+  "lon": -9.1481526
+},
+{
+  "type": "node",
+  "id": 265896596,
+  "lat": 38.7310021,
+  "lon": -9.1465250
+},
+{
+  "type": "node",
+  "id": 1120611088,
+  "lat": 38.7340613,
+  "lon": -9.1449238
+},
+{
+  "type": "node",
+  "id": 1120611267,
+  "lat": 38.7334951,
+  "lon": -9.1449736
+},
+{
+  "type": "node",
+  "id": 3664596509,
+  "lat": 38.7290927,
+  "lon": -9.1476892
+},
+{
+  "type": "node",
+  "id": 3664596523,
+  "lat": 38.7285604,
+  "lon": -9.1480157
+},
+{
+  "type": "node",
+  "id": 4547299280,
+  "lat": 38.7338314,
+  "lon": -9.1449214
+},
+{
+  "type": "node",
+  "id": 256674870,
+  "lat": 38.7262651,
+  "lon": -9.1349411
+},
+{
+  "type": "node",
+  "id": 265897892,
+  "lat": 38.7226276,
+  "lon": -9.1353016
+},
+{
+  "type": "node",
+  "id": 256675147,
+  "lat": 38.7335128,
+  "lon": -9.1342227
+},
+{
+  "type": "node",
+  "id": 256978157,
+  "lat": 38.7391516,
+  "lon": -9.1662112
+},
+{
+  "type": "node",
+  "id": 256978158,
+  "lat": 38.7394495,
+  "lon": -9.1667160
+},
+{
+  "type": "node",
+  "id": 256978159,
+  "lat": 38.7409224,
+  "lon": -9.1678929
+},
+{
+  "type": "node",
+  "id": 1122555666,
+  "lat": 38.7388746,
+  "lon": -9.1652652
+},
+{
+  "type": "node",
+  "id": 256978160,
+  "lat": 38.7420882,
+  "lon": -9.1689132
+},
+{
+  "type": "node",
+  "id": 256978161,
+  "lat": 38.7432369,
+  "lon": -9.1692877
+},
+{
+  "type": "node",
+  "id": 256978162,
+  "lat": 38.7447458,
+  "lon": -9.1693547
+},
+{
+  "type": "node",
+  "id": 256978163,
+  "lat": 38.7458998,
+  "lon": -9.1698130
+},
+{
+  "type": "node",
+  "id": 256978164,
+  "lat": 38.7464446,
+  "lon": -9.1704990
+},
+{
+  "type": "node",
+  "id": 1124214068,
+  "lat": 38.7477684,
+  "lon": -9.1725986
+},
+{
+  "type": "node",
+  "id": 1124214097,
+  "lat": 38.7425762,
+  "lon": -9.1691809
+},
+{
+  "type": "node",
+  "id": 1124214154,
+  "lat": 38.7474229,
+  "lon": -9.1721458
+},
+{
+  "type": "node",
+  "id": 1124214156,
+  "lat": 38.7453195,
+  "lon": -9.1694939
+},
+{
+  "type": "node",
+  "id": 5506455379,
+  "lat": 38.7449547,
+  "lon": -9.1694047
+},
+{
+  "type": "node",
+  "id": 256976571,
+  "lat": 38.7366914,
+  "lon": -9.1560059
+},
+{
+  "type": "node",
+  "id": 256976572,
+  "lat": 38.7371249,
+  "lon": -9.1567845
+},
+{
+  "type": "node",
+  "id": 256976574,
+  "lat": 38.7377417,
+  "lon": -9.1592294
+},
+{
+  "type": "node",
+  "id": 1122555688,
+  "lat": 38.7363117,
+  "lon": -9.1556599
+},
+{
+  "type": "node",
+  "id": 1122555692,
+  "lat": 38.7369224,
+  "lon": -9.1563221
+},
+{
+  "type": "node",
+  "id": 1122555693,
+  "lat": 38.7373434,
+  "lon": -9.1574873
+},
+{
+  "type": "node",
+  "id": 256978165,
+  "lat": 38.7482497,
+  "lon": -9.1730362
+},
+{
+  "type": "node",
+  "id": 256978167,
+  "lat": 38.7497485,
+  "lon": -9.1745455
+},
+{
+  "type": "node",
+  "id": 1124214053,
+  "lat": 38.7496272,
+  "lon": -9.1741205
+},
+{
+  "type": "node",
+  "id": 1124214064,
+  "lat": 38.7494014,
+  "lon": -9.1738230
+},
+{
+  "type": "node",
+  "id": 245937996,
+  "lat": 38.7591341,
+  "lon": -9.1622529
+},
+{
+  "type": "node",
+  "id": 245937998,
+  "lat": 38.7594936,
+  "lon": -9.1638864
+},
+{
+  "type": "node",
+  "id": 245938000,
+  "lat": 38.7598367,
+  "lon": -9.1655966
+},
+{
+  "type": "node",
+  "id": 245938001,
+  "lat": 38.7600193,
+  "lon": -9.1666963
+},
+{
+  "type": "node",
+  "id": 246763932,
+  "lat": 38.7589565,
+  "lon": -9.1620972
+},
+{
+  "type": "node",
+  "id": 246763933,
+  "lat": 38.7582603,
+  "lon": -9.1623545
+},
+{
+  "type": "node",
+  "id": 246763935,
+  "lat": 38.7577087,
+  "lon": -9.1622936
+},
+{
+  "type": "node",
+  "id": 1122627824,
+  "lat": 38.7586376,
+  "lon": -9.1622710
+},
+{
+  "type": "node",
+  "id": 5588844241,
+  "lat": 38.7590906,
+  "lon": -9.1621283
+},
+{
+  "type": "node",
+  "id": 5588844242,
+  "lat": 38.7591387,
+  "lon": -9.1624153
+},
+{
+  "type": "node",
+  "id": 5588844243,
+  "lat": 38.7592266,
+  "lon": -9.1628216
+},
+{
+  "type": "node",
+  "id": 5588844244,
+  "lat": 38.7594127,
+  "lon": -9.1636357
+},
+{
+  "type": "node",
+  "id": 5588844246,
+  "lat": 38.7588750,
+  "lon": -9.1621416
+},
+{
+  "type": "node",
+  "id": 5588844247,
+  "lat": 38.7590467,
+  "lon": -9.1619673
+},
+{
+  "type": "node",
+  "id": 246763941,
+  "lat": 38.7543672,
+  "lon": -9.1605624
+},
+{
+  "type": "node",
+  "id": 246763946,
+  "lat": 38.7515237,
+  "lon": -9.1590546
+},
+{
+  "type": "node",
+  "id": 246763949,
+  "lat": 38.7506976,
+  "lon": -9.1580348
+},
+{
+  "type": "node",
+  "id": 246763951,
+  "lat": 38.7506407,
+  "lon": -9.1572829
+},
+{
+  "type": "node",
+  "id": 246763953,
+  "lat": 38.7507208,
+  "lon": -9.1567175
+},
+{
+  "type": "node",
+  "id": 1122627832,
+  "lat": 38.7508815,
+  "lon": -9.1586592
+},
+{
+  "type": "node",
+  "id": 2182232694,
+  "lat": 38.7510253,
+  "lon": -9.1556305
+},
+{
+  "type": "node",
+  "id": 6008965817,
+  "lat": 38.7519988,
+  "lon": -9.1592868
+},
+{
+  "type": "node",
+  "id": 6008965829,
+  "lat": 38.7511852,
+  "lon": -9.1588892
+},
+{
+  "type": "node",
+  "id": 6008965830,
+  "lat": 38.7510782,
+  "lon": -9.1588392
+},
+{
+  "type": "node",
+  "id": 6009066318,
+  "lat": 38.7507571,
+  "lon": -9.1583953
+},
+{
+  "type": "node",
+  "id": 246763957,
+  "lat": 38.7514952,
+  "lon": -9.1518115
+},
+{
+  "type": "node",
+  "id": 246763959,
+  "lat": 38.7512410,
+  "lon": -9.1508918
+},
+{
+  "type": "node",
+  "id": 246763961,
+  "lat": 38.7498935,
+  "lon": -9.1498060
+},
+{
+  "type": "node",
+  "id": 1122627815,
+  "lat": 38.7515615,
+  "lon": -9.1525891
+},
+{
+  "type": "node",
+  "id": 1122627836,
+  "lat": 38.7506949,
+  "lon": -9.1502979
+},
+{
+  "type": "node",
+  "id": 1122627855,
+  "lat": 38.7510139,
+  "lon": -9.1505576
+},
+{
+  "type": "node",
+  "id": 1122627861,
+  "lat": 38.7515364,
+  "lon": -9.1535442
+},
+{
+  "type": "node",
+  "id": 245937961,
+  "lat": 38.7609485,
+  "lon": -9.1560770
+},
+{
+  "type": "node",
+  "id": 245937962,
+  "lat": 38.7604709,
+  "lon": -9.1572762
+},
+{
+  "type": "node",
+  "id": 245937967,
+  "lat": 38.7600309,
+  "lon": -9.1585962
+},
+{
+  "type": "node",
+  "id": 245937993,
+  "lat": 38.7594286,
+  "lon": -9.1597072
+},
+{
+  "type": "node",
+  "id": 245937995,
+  "lat": 38.7591024,
+  "lon": -9.1609952
+},
+{
+  "type": "node",
+  "id": 245938003,
+  "lat": 38.7606600,
+  "lon": -9.1562890
+},
+{
+  "type": "node",
+  "id": 246763928,
+  "lat": 38.7596320,
+  "lon": -9.1607631
+},
+{
+  "type": "node",
+  "id": 420335783,
+  "lat": 38.7591818,
+  "lon": -9.1605420
+},
+{
+  "type": "node",
+  "id": 1120180469,
+  "lat": 38.7590784,
+  "lon": -9.1618080
+},
+{
+  "type": "node",
+  "id": 1120180700,
+  "lat": 38.7604423,
+  "lon": -9.1569016
+},
+{
+  "type": "node",
+  "id": 1120180786,
+  "lat": 38.7598564,
+  "lon": -9.1594031
+},
+{
+  "type": "node",
+  "id": 1120180945,
+  "lat": 38.7611107,
+  "lon": -9.1558166
+},
+{
+  "type": "node",
+  "id": 1122627770,
+  "lat": 38.7595158,
+  "lon": -9.1612022
+},
+{
+  "type": "node",
+  "id": 1122627867,
+  "lat": 38.7591814,
+  "lon": -9.1618682
+},
+{
+  "type": "node",
+  "id": 3096908240,
+  "lat": 38.7598523,
+  "lon": -9.1594284
+},
+{
+  "type": "node",
+  "id": 3995469401,
+  "lat": 38.7597130,
+  "lon": -9.1589201
+},
+{
+  "type": "node",
+  "id": 5110377795,
+  "lat": 38.7590753,
+  "lon": -9.1613831
+},
+{
+  "type": "node",
+  "id": 5216412760,
+  "lat": 38.7601887,
+  "lon": -9.1578770
+},
+{
+  "type": "node",
+  "id": 5588842681,
+  "lat": 38.7600829,
+  "lon": -9.1584207
+},
+{
+  "type": "node",
+  "id": 5588842683,
+  "lat": 38.7603118,
+  "lon": -9.1571594
+},
+{
+  "type": "node",
+  "id": 5588842685,
+  "lat": 38.7606572,
+  "lon": -9.1566995
+},
+{
+  "type": "node",
+  "id": 5588842686,
+  "lat": 38.7605627,
+  "lon": -9.1569434
+},
+{
+  "type": "node",
+  "id": 5588842696,
+  "lat": 38.7606899,
+  "lon": -9.1561163
+},
+{
+  "type": "node",
+  "id": 5588842699,
+  "lat": 38.7605971,
+  "lon": -9.1564660
+},
+{
+  "type": "node",
+  "id": 5588842718,
+  "lat": 38.7608234,
+  "lon": -9.1558050
+},
+{
+  "type": "node",
+  "id": 5588842719,
+  "lat": 38.7606687,
+  "lon": -9.1561657
+},
+{
+  "type": "node",
+  "id": 5588842720,
+  "lat": 38.7605714,
+  "lon": -9.1564192
+},
+{
+  "type": "node",
+  "id": 5588844221,
+  "lat": 38.7607910,
+  "lon": -9.1563401
+},
+{
+  "type": "node",
+  "id": 5588844222,
+  "lat": 38.7609625,
+  "lon": -9.1559592
+},
+{
+  "type": "node",
+  "id": 5588844223,
+  "lat": 38.7612323,
+  "lon": -9.1555864
+},
+{
+  "type": "node",
+  "id": 5588844229,
+  "lat": 38.7603727,
+  "lon": -9.1569892
+},
+{
+  "type": "node",
+  "id": 5588844230,
+  "lat": 38.7601615,
+  "lon": -9.1575792
+},
+{
+  "type": "node",
+  "id": 5588844231,
+  "lat": 38.7597714,
+  "lon": -9.1586562
+},
+{
+  "type": "node",
+  "id": 5588844232,
+  "lat": 38.7596480,
+  "lon": -9.1590008
+},
+{
+  "type": "node",
+  "id": 5588844233,
+  "lat": 38.7594368,
+  "lon": -9.1595668
+},
+{
+  "type": "node",
+  "id": 5588844234,
+  "lat": 38.7592893,
+  "lon": -9.1600589
+},
+{
+  "type": "node",
+  "id": 5588844235,
+  "lat": 38.7591826,
+  "lon": -9.1604143
+},
+{
+  "type": "node",
+  "id": 5588844236,
+  "lat": 38.7591032,
+  "lon": -9.1607603
+},
+{
+  "type": "node",
+  "id": 5588844237,
+  "lat": 38.7590760,
+  "lon": -9.1609360
+},
+{
+  "type": "node",
+  "id": 5588844238,
+  "lat": 38.7590498,
+  "lon": -9.1612016
+},
+{
+  "type": "node",
+  "id": 5588844239,
+  "lat": 38.7590425,
+  "lon": -9.1614376
+},
+{
+  "type": "node",
+  "id": 5588844240,
+  "lat": 38.7590456,
+  "lon": -9.1617970
+},
+{
+  "type": "node",
+  "id": 5588844248,
+  "lat": 38.7591471,
+  "lon": -9.1618654
+},
+{
+  "type": "node",
+  "id": 5588844249,
+  "lat": 38.7592088,
+  "lon": -9.1617541
+},
+{
+  "type": "node",
+  "id": 5588844250,
+  "lat": 38.7593604,
+  "lon": -9.1614416
+},
+{
+  "type": "node",
+  "id": 5588844251,
+  "lat": 38.7594462,
+  "lon": -9.1612646
+},
+{
+  "type": "node",
+  "id": 5588844252,
+  "lat": 38.7595047,
+  "lon": -9.1611144
+},
+{
+  "type": "node",
+  "id": 5588844253,
+  "lat": 38.7595612,
+  "lon": -9.1608998
+},
+{
+  "type": "node",
+  "id": 5588844254,
+  "lat": 38.7598894,
+  "lon": -9.1590928
+},
+{
+  "type": "node",
+  "id": 5588844257,
+  "lat": 38.7604553,
+  "lon": -9.1572252
+},
+{
+  "type": "node",
+  "id": 5588844258,
+  "lat": 38.7604229,
+  "lon": -9.1573137
+},
+{
+  "type": "node",
+  "id": 5588844259,
+  "lat": 38.7600224,
+  "lon": -9.1584966
+},
+{
+  "type": "node",
+  "id": 5588844260,
+  "lat": 38.7599868,
+  "lon": -9.1586226
+},
+{
+  "type": "node",
+  "id": 5588844261,
+  "lat": 38.7599377,
+  "lon": -9.1588493
+},
+{
+  "type": "node",
+  "id": 5588844262,
+  "lat": 38.7598833,
+  "lon": -9.1591202
+},
+{
+  "type": "node",
+  "id": 5588844263,
+  "lat": 38.7598289,
+  "lon": -9.1593790
+},
+{
+  "type": "node",
+  "id": 5588844264,
+  "lat": 38.7597740,
+  "lon": -9.1597049
+},
+{
+  "type": "node",
+  "id": 5588844265,
+  "lat": 38.7597092,
+  "lon": -9.1601059
+},
+{
+  "type": "node",
+  "id": 5588844266,
+  "lat": 38.7596684,
+  "lon": -9.1603754
+},
+{
+  "type": "node",
+  "id": 5588844267,
+  "lat": 38.7595983,
+  "lon": -9.1607463
+},
+{
+  "type": "node",
+  "id": 5588912781,
+  "lat": 38.7591377,
+  "lon": -9.1607644
+},
+{
+  "type": "node",
+  "id": 5588912782,
+  "lat": 38.7594791,
+  "lon": -9.1611922
+},
+{
+  "type": "node",
+  "id": 256971874,
+  "lat": 38.7612741,
+  "lon": -9.1489570
+},
+{
+  "type": "node",
+  "id": 5588842717,
+  "lat": 38.7611089,
+  "lon": -9.1551371
+},
+{
+  "type": "node",
+  "id": 246763968,
+  "lat": 38.7411137,
+  "lon": -9.1467947
+},
+{
+  "type": "node",
+  "id": 246763972,
+  "lat": 38.7351299,
+  "lon": -9.1451853
+},
+{
+  "type": "node",
+  "id": 1110776405,
+  "lat": 38.7351730,
+  "lon": -9.1428562
+},
+{
+  "type": "node",
+  "id": 3677782936,
+  "lat": 38.7361657,
+  "lon": -9.1454418
+},
+{
+  "type": "node",
+  "id": 1110776395,
+  "lat": 38.7368931,
+  "lon": -9.1360509
+},
+{
+  "type": "node",
+  "id": 1110776407,
+  "lat": 38.7358537,
+  "lon": -9.1370311
+},
+{
+  "type": "node",
+  "id": 1110776472,
+  "lat": 38.7352954,
+  "lon": -9.1386146
+},
+{
+  "type": "node",
+  "id": 1123843260,
+  "lat": 38.7370620,
+  "lon": -9.1358339
+},
+{
+  "type": "node",
+  "id": 1123843368,
+  "lat": 38.7354150,
+  "lon": -9.1379716
+},
+{
+  "type": "node",
+  "id": 1123843449,
+  "lat": 38.7356283,
+  "lon": -9.1374128
+},
+{
+  "type": "node",
+  "id": 246763964,
+  "lat": 38.7470474,
+  "lon": -9.1482140
+},
+{
+  "type": "node",
+  "id": 1122627789,
+  "lat": 38.7480588,
+  "lon": -9.1485216
+},
+{
+  "type": "node",
+  "id": 256971862,
+  "lat": 38.7455986,
+  "lon": -9.1360303
+},
+{
+  "type": "node",
+  "id": 256971863,
+  "lat": 38.7454926,
+  "lon": -9.1380949
+},
+{
+  "type": "node",
+  "id": 256971864,
+  "lat": 38.7455367,
+  "lon": -9.1393982
+},
+{
+  "type": "node",
+  "id": 256971865,
+  "lat": 38.7459369,
+  "lon": -9.1401240
+},
+{
+  "type": "node",
+  "id": 1123904651,
+  "lat": 38.7457355,
+  "lon": -9.1399514
+},
+{
+  "type": "node",
+  "id": 256674873,
+  "lat": 38.7373541,
+  "lon": -9.1337842
+},
+{
+  "type": "node",
+  "id": 256675084,
+  "lat": 38.7375445,
+  "lon": -9.1298984
+},
+{
+  "type": "node",
+  "id": 269342706,
+  "lat": 38.7371567,
+  "lon": -9.1356221
+},
+{
+  "type": "node",
+  "id": 1123843320,
+  "lat": 38.7372363,
+  "lon": -9.1352750
+},
+{
+  "type": "node",
+  "id": 256675085,
+  "lat": 38.7377051,
+  "lon": -9.1277012
+},
+{
+  "type": "node",
+  "id": 256972632,
+  "lat": 38.7378981,
+  "lon": -9.1266245
+},
+{
+  "type": "node",
+  "id": 256972633,
+  "lat": 38.7382329,
+  "lon": -9.1258006
+},
+{
+  "type": "node",
+  "id": 256972634,
+  "lat": 38.7394453,
+  "lon": -9.1239422
+},
+{
+  "type": "node",
+  "id": 256674875,
+  "lat": 38.7419672,
+  "lon": -9.1333422
+},
+{
+  "type": "node",
+  "id": 256674877,
+  "lat": 38.7428026,
+  "lon": -9.1335343
+},
+{
+  "type": "node",
+  "id": 256971860,
+  "lat": 38.7452040,
+  "lon": -9.1347334
+},
+{
+  "type": "node",
+  "id": 256971861,
+  "lat": 38.7455566,
+  "lon": -9.1355325
+},
+{
+  "type": "node",
+  "id": 1123904659,
+  "lat": 38.7453644,
+  "lon": -9.1349122
+},
+{
+  "type": "node",
+  "id": 1465237705,
+  "lat": 38.7423786,
+  "lon": -9.1333962
+},
+{
+  "type": "node",
+  "id": 256971869,
+  "lat": 38.7530340,
+  "lon": -9.1439777
+},
+{
+  "type": "node",
+  "id": 355017757,
+  "lat": 38.7511826,
+  "lon": -9.1429609
+},
+{
+  "type": "node",
+  "id": 1129611925,
+  "lat": 38.7484435,
+  "lon": -9.1487303
+},
+{
+  "type": "node",
+  "id": 4124472718,
+  "lat": 38.7537533,
+  "lon": -9.1443368
+},
+{
+  "type": "node",
+  "id": 256971868,
+  "lat": 38.7486692,
+  "lon": -9.1415844
+},
+{
+  "type": "node",
+  "id": 256971871,
+  "lat": 38.7601420,
+  "lon": -9.1477602
+},
+{
+  "type": "node",
+  "id": 256971872,
+  "lat": 38.7607642,
+  "lon": -9.1482105
+},
+{
+  "type": "node",
+  "id": 4124472740,
+  "lat": 38.7565139,
+  "lon": -9.1458141
+},
+{
+  "type": "node",
+  "id": 256981316,
+  "lat": 38.7624518,
+  "lon": -9.1953606
+},
+{
+  "type": "node",
+  "id": 256981317,
+  "lat": 38.7622108,
+  "lon": -9.1968418
+},
+{
+  "type": "node",
+  "id": 256981319,
+  "lat": 38.7616875,
+  "lon": -9.1992321
+},
+{
+  "type": "node",
+  "id": 256981314,
+  "lat": 38.7619912,
+  "lon": -9.1918212
+},
+{
+  "type": "node",
+  "id": 256981315,
+  "lat": 38.7626007,
+  "lon": -9.1931049
+},
+{
+  "type": "node",
+  "id": 1122550793,
+  "lat": 38.7623848,
+  "lon": -9.1923882
+},
+{
+  "type": "node",
+  "id": 1122550870,
+  "lat": 38.7625982,
+  "lon": -9.1940292
+},
+{
+  "type": "node",
+  "id": 1122551018,
+  "lat": 38.7614386,
+  "lon": -9.1914736
+},
+{
+  "type": "node",
+  "id": 4647742915,
+  "lat": 38.7618407,
+  "lon": -9.1916718
+},
+{
+  "type": "node",
+  "id": 4647742916,
+  "lat": 38.7616462,
+  "lon": -9.1915538
+},
+{
+  "type": "node",
+  "id": 4649667213,
+  "lat": 38.7622015,
+  "lon": -9.1920915
+},
+{
+  "type": "node",
+  "id": 4649667214,
+  "lat": 38.7626135,
+  "lon": -9.1935748
+},
+{
+  "type": "node",
+  "id": 4649667215,
+  "lat": 38.7625131,
+  "lon": -9.1927460
+},
+{
+  "type": "node",
+  "id": 245937950,
+  "lat": 38.7674532,
+  "lon": -9.1555486
+},
+{
+  "type": "node",
+  "id": 245937951,
+  "lat": 38.7658391,
+  "lon": -9.1550462
+},
+{
+  "type": "node",
+  "id": 245937955,
+  "lat": 38.7627218,
+  "lon": -9.1548476
+},
+{
+  "type": "node",
+  "id": 245937959,
+  "lat": 38.7616899,
+  "lon": -9.1552066
+},
+{
+  "type": "node",
+  "id": 245937960,
+  "lat": 38.7615254,
+  "lon": -9.1553420
+},
+{
+  "type": "node",
+  "id": 256672963,
+  "lat": 38.7618375,
+  "lon": -9.1533229
+},
+{
+  "type": "node",
+  "id": 256971875,
+  "lat": 38.7617148,
+  "lon": -9.1498944
+},
+{
+  "type": "node",
+  "id": 256971876,
+  "lat": 38.7619771,
+  "lon": -9.1514137
+},
+{
+  "type": "node",
+  "id": 256971877,
+  "lat": 38.7619543,
+  "lon": -9.1524552
+},
+{
+  "type": "node",
+  "id": 1120180970,
+  "lat": 38.7620269,
+  "lon": -9.1550186
+},
+{
+  "type": "node",
+  "id": 1122627833,
+  "lat": 38.7637314,
+  "lon": -9.1546914
+},
+{
+  "type": "node",
+  "id": 1122627863,
+  "lat": 38.7645949,
+  "lon": -9.1547437
+},
+{
+  "type": "node",
+  "id": 1933000047,
+  "lat": 38.7615306,
+  "lon": -9.1542397
+},
+{
+  "type": "node",
+  "id": 3096908254,
+  "lat": 38.7627041,
+  "lon": -9.1548512
+},
+{
+  "type": "node",
+  "id": 5588842712,
+  "lat": 38.7618843,
+  "lon": -9.1529751
+},
+{
+  "type": "node",
+  "id": 5588842713,
+  "lat": 38.7618043,
+  "lon": -9.1532743
+},
+{
+  "type": "node",
+  "id": 5588842714,
+  "lat": 38.7617583,
+  "lon": -9.1534419
+},
+{
+  "type": "node",
+  "id": 5588842715,
+  "lat": 38.7615947,
+  "lon": -9.1539576
+},
+{
+  "type": "node",
+  "id": 5588842716,
+  "lat": 38.7615029,
+  "lon": -9.1542161
+},
+{
+  "type": "node",
+  "id": 5588844224,
+  "lat": 38.7615837,
+  "lon": -9.1552269
+},
+{
+  "type": "node",
+  "id": 5588844225,
+  "lat": 38.7619162,
+  "lon": -9.1550070
+},
+{
+  "type": "node",
+  "id": 5588844226,
+  "lat": 38.7621358,
+  "lon": -9.1549239
+},
+{
+  "type": "node",
+  "id": 5588844227,
+  "lat": 38.7624768,
+  "lon": -9.1548649
+},
+{
+  "type": "node",
+  "id": 5588912780,
+  "lat": 38.7616883,
+  "lon": -9.1551545
+},
+{
+  "type": "node",
+  "id": 245937941,
+  "lat": 38.7727302,
+  "lon": -9.1601130
+},
+{
+  "type": "node",
+  "id": 245937942,
+  "lat": 38.7715018,
+  "lon": -9.1590830
+},
+{
+  "type": "node",
+  "id": 245937948,
+  "lat": 38.7694372,
+  "lon": -9.1563619
+},
+{
+  "type": "node",
+  "id": 245937949,
+  "lat": 38.7681985,
+  "lon": -9.1557779
+},
+{
+  "type": "node",
+  "id": 1122508386,
+  "lat": 38.7726387,
+  "lon": -9.1600447
+},
+{
+  "type": "node",
+  "id": 1122627783,
+  "lat": 38.7721712,
+  "lon": -9.1597406
+},
+{
+  "type": "node",
+  "id": 1122627795,
+  "lat": 38.7741532,
+  "lon": -9.1606859
+},
+{
+  "type": "node",
+  "id": 1122627812,
+  "lat": 38.7700773,
+  "lon": -9.1571204
+},
+{
+  "type": "node",
+  "id": 1122627864,
+  "lat": 38.7689474,
+  "lon": -9.1560856
+},
+{
+  "type": "node",
+  "id": 1302844519,
+  "lat": 38.7735640,
+  "lon": -9.1606208
+},
+{
+  "type": "node",
+  "id": 146311301,
+  "lat": 38.7861240,
+  "lon": -9.1720660
+},
+{
+  "type": "node",
+  "id": 146311308,
+  "lat": 38.7866186,
+  "lon": -9.1722560
+},
+{
+  "type": "node",
+  "id": 146311453,
+  "lat": 38.7851321,
+  "lon": -9.1716328
+},
+{
+  "type": "node",
+  "id": 146311461,
+  "lat": 38.7856422,
+  "lon": -9.1718447
+},
+{
+  "type": "node",
+  "id": 146311488,
+  "lat": 38.7836453,
+  "lon": -9.1685429
+},
+{
+  "type": "node",
+  "id": 146311498,
+  "lat": 38.7836311,
+  "lon": -9.1691208
+},
+{
+  "type": "node",
+  "id": 146311513,
+  "lat": 38.7837939,
+  "lon": -9.1700714
+},
+{
+  "type": "node",
+  "id": 146311520,
+  "lat": 38.7839408,
+  "lon": -9.1705512
+},
+{
+  "type": "node",
+  "id": 146311529,
+  "lat": 38.7842480,
+  "lon": -9.1709797
+},
+{
+  "type": "node",
+  "id": 146311534,
+  "lat": 38.7844885,
+  "lon": -9.1712024
+},
+{
+  "type": "node",
+  "id": 1122508568,
+  "lat": 38.7873170,
+  "lon": -9.1723845
+},
+{
+  "type": "node",
+  "id": 146311477,
+  "lat": 38.7838069,
+  "lon": -9.1679231
+},
+{
+  "type": "node",
+  "id": 146311483,
+  "lat": 38.7837398,
+  "lon": -9.1681290
+},
+{
+  "type": "node",
+  "id": 146311563,
+  "lat": 38.7842895,
+  "lon": -9.1669421
+},
+{
+  "type": "node",
+  "id": 146311571,
+  "lat": 38.7842211,
+  "lon": -9.1670669
+},
+{
+  "type": "node",
+  "id": 245937923,
+  "lat": 38.7846255,
+  "lon": -9.1664290
+},
+{
+  "type": "node",
+  "id": 245937924,
+  "lat": 38.7849134,
+  "lon": -9.1658880
+},
+{
+  "type": "node",
+  "id": 245937925,
+  "lat": 38.7850579,
+  "lon": -9.1654833
+},
+{
+  "type": "node",
+  "id": 245937928,
+  "lat": 38.7842427,
+  "lon": -9.1620044
+},
+{
+  "type": "node",
+  "id": 1122508322,
+  "lat": 38.7838976,
+  "lon": -9.1677196
+},
+{
+  "type": "node",
+  "id": 1122627822,
+  "lat": 38.7851200,
+  "lon": -9.1643127
+},
+{
+  "type": "node",
+  "id": 1122627846,
+  "lat": 38.7850052,
+  "lon": -9.1636092
+},
+{
+  "type": "node",
+  "id": 1122627850,
+  "lat": 38.7847447,
+  "lon": -9.1628582
+},
+{
+  "type": "node",
+  "id": 1122627856,
+  "lat": 38.7851154,
+  "lon": -9.1651107
+},
+{
+  "type": "node",
+  "id": 245937922,
+  "lat": 38.7796411,
+  "lon": -9.1594571
+},
+{
+  "type": "node",
+  "id": 245937932,
+  "lat": 38.7808565,
+  "lon": -9.1601666
+},
+{
+  "type": "node",
+  "id": 245937935,
+  "lat": 38.7789569,
+  "lon": -9.1591903
+},
+{
+  "type": "node",
+  "id": 245937937,
+  "lat": 38.7773565,
+  "lon": -9.1590602
+},
+{
+  "type": "node",
+  "id": 245937939,
+  "lat": 38.7747466,
+  "lon": -9.1604852
+},
+{
+  "type": "node",
+  "id": 1122627808,
+  "lat": 38.7769514,
+  "lon": -9.1591205
+},
+{
+  "type": "node",
+  "id": 1122627814,
+  "lat": 38.7744438,
+  "lon": -9.1606319
+},
+{
+  "type": "node",
+  "id": 1122627841,
+  "lat": 38.7763873,
+  "lon": -9.1593415
+},
+{
+  "type": "node",
+  "id": 1122627858,
+  "lat": 38.7785774,
+  "lon": -9.1591071
+},
+{
+  "type": "node",
+  "id": 245937929,
+  "lat": 38.7838377,
+  "lon": -9.1615699
+},
+{
+  "type": "node",
+  "id": 245937930,
+  "lat": 38.7833905,
+  "lon": -9.1611971
+},
+{
+  "type": "node",
+  "id": 1122627843,
+  "lat": 38.7828548,
+  "lon": -9.1608650
+},
+{
+  "type": "node",
+  "id": 5679961383,
+  "lat": 38.7825472,
+  "lon": -9.1607504
+},
+{
+  "type": "node",
+  "id": 1829104217,
+  "lat": 38.7690806,
+  "lon": -9.1284699
+},
+{
+  "type": "node",
+  "id": 2124041584,
+  "lat": 38.7689735,
+  "lon": -9.1267496
+},
+{
+  "type": "node",
+  "id": 2124041596,
+  "lat": 38.7698696,
+  "lon": -9.1236172
+},
+{
+  "type": "node",
+  "id": 2124041597,
+  "lat": 38.7700581,
+  "lon": -9.1230104
+},
+{
+  "type": "node",
+  "id": 146311320,
+  "lat": 38.7878684,
+  "lon": -9.1722799
+},
+{
+  "type": "node",
+  "id": 146311329,
+  "lat": 38.7884007,
+  "lon": -9.1719882
+},
+{
+  "type": "node",
+  "id": 146311351,
+  "lat": 38.7895416,
+  "lon": -9.1709980
+},
+{
+  "type": "node",
+  "id": 146311358,
+  "lat": 38.7899372,
+  "lon": -9.1707564
+},
+{
+  "type": "node",
+  "id": 146311371,
+  "lat": 38.7908012,
+  "lon": -9.1705965
+},
+{
+  "type": "node",
+  "id": 146311382,
+  "lat": 38.7913620,
+  "lon": -9.1707278
+},
+{
+  "type": "node",
+  "id": 146311399,
+  "lat": 38.7920158,
+  "lon": -9.1711562
+},
+{
+  "type": "node",
+  "id": 146311410,
+  "lat": 38.7923583,
+  "lon": -9.1715656
+},
+{
+  "type": "node",
+  "id": 146311432,
+  "lat": 38.7926979,
+  "lon": -9.1720928
+},
+{
+  "type": "node",
+  "id": 146311442,
+  "lat": 38.7929661,
+  "lon": -9.1725226
+},
+{
+  "type": "node",
+  "id": 146311452,
+  "lat": 38.7932600,
+  "lon": -9.1730002
+},
+{
+  "type": "node",
+  "id": 1122508413,
+  "lat": 38.7904690,
+  "lon": -9.1706157
+},
+{
+  "type": "node",
+  "id": 1122508470,
+  "lat": 38.7935347,
+  "lon": -9.1734512
+},
+{
+  "type": "node",
+  "id": 5589147940,
+  "lat": 38.7917730,
+  "lon": -9.1709608
+},
+{
+  "type": "node",
+  "id": 5589147944,
+  "lat": 38.7900545,
+  "lon": -9.1707154
+},
+{
+  "type": "node",
+  "id": 5589147953,
+  "lat": 38.7902646,
+  "lon": -9.1706537
+},
+{
+  "type": "node",
+  "id": 5589147954,
+  "lat": 38.7915691,
+  "lon": -9.1708280
+},
+{
+  "type": "node",
+  "id": 5589147958,
+  "lat": 38.7909806,
+  "lon": -9.1706201
+},
+{
+  "type": "node",
+  "id": 5589147967,
+  "lat": 38.7897430,
+  "lon": -9.1708656
+},
+{
+  "type": "node",
+  "id": 5589147969,
+  "lat": 38.7906357,
+  "lon": -9.1705947
+},
+{
+  "type": "node",
+  "id": 5589147979,
+  "lat": 38.7921911,
+  "lon": -9.1713484
+},
+{
+  "type": "node",
+  "id": 5589147985,
+  "lat": 38.7911562,
+  "lon": -9.1706590
+},
+{
+  "type": "node",
+  "id": 1696909109,
+  "lat": 38.7136966,
+  "lon": -9.1224184
+},
+{
+  "type": "node",
+  "id": 256972638,
+  "lat": 38.7407775,
+  "lon": -9.1220172
+},
+{
+  "type": "node",
+  "id": 2241923428,
+  "lat": 38.7411245,
+  "lon": -9.1214974
+},
+{
+  "type": "node",
+  "id": 3514005519,
+  "lat": 38.7413522,
+  "lon": -9.1211786
+},
+{
+  "type": "node",
+  "id": 256972644,
+  "lat": 38.7425642,
+  "lon": -9.1202836
+},
+{
+  "type": "node",
+  "id": 256975142,
+  "lat": 38.7446609,
+  "lon": -9.1196472
+},
+{
+  "type": "node",
+  "id": 256975144,
+  "lat": 38.7452028,
+  "lon": -9.1194461
+},
+{
+  "type": "node",
+  "id": 256975148,
+  "lat": 38.7475415,
+  "lon": -9.1176782
+},
+{
+  "type": "node",
+  "id": 1123933080,
+  "lat": 38.7431778,
+  "lon": -9.1200608
+},
+{
+  "type": "node",
+  "id": 1123933102,
+  "lat": 38.7466075,
+  "lon": -9.1182849
+},
+{
+  "type": "node",
+  "id": 1123933110,
+  "lat": 38.7457726,
+  "lon": -9.1191124
+},
+{
+  "type": "node",
+  "id": 1152032002,
+  "lat": 38.7470538,
+  "lon": -9.1179468
+},
+{
+  "type": "node",
+  "id": 3514005520,
+  "lat": 38.7416317,
+  "lon": -9.1208753
+},
+{
+  "type": "node",
+  "id": 3514005522,
+  "lat": 38.7420844,
+  "lon": -9.1205582
+},
+{
+  "type": "node",
+  "id": 256975156,
+  "lat": 38.7530145,
+  "lon": -9.1147361
+},
+{
+  "type": "node",
+  "id": 256975157,
+  "lat": 38.7548276,
+  "lon": -9.1138872
+},
+{
+  "type": "node",
+  "id": 256975161,
+  "lat": 38.7608482,
+  "lon": -9.1117135
+},
+{
+  "type": "node",
+  "id": 1123933018,
+  "lat": 38.7588971,
+  "lon": -9.1120852
+},
+{
+  "type": "node",
+  "id": 1123933104,
+  "lat": 38.7593416,
+  "lon": -9.1119498
+},
+{
+  "type": "node",
+  "id": 256975163,
+  "lat": 38.7613951,
+  "lon": -9.1115423
+},
+{
+  "type": "node",
+  "id": 256975165,
+  "lat": 38.7623388,
+  "lon": -9.1109967
+},
+{
+  "type": "node",
+  "id": 256975166,
+  "lat": 38.7629419,
+  "lon": -9.1095417
+},
+{
+  "type": "node",
+  "id": 1123933084,
+  "lat": 38.7629121,
+  "lon": -9.1098160
+},
+{
+  "type": "node",
+  "id": 1123933089,
+  "lat": 38.7627791,
+  "lon": -9.1103984
+},
+{
+  "type": "node",
+  "id": 4178170870,
+  "lat": 38.7628725,
+  "lon": -9.1100280
+},
+{
+  "type": "node",
+  "id": 4178170871,
+  "lat": 38.7625848,
+  "lon": -9.1107692
+},
+{
+  "type": "node",
+  "id": 4178170872,
+  "lat": 38.7627012,
+  "lon": -9.1106037
+},
+{
+  "type": "node",
+  "id": 4178170873,
+  "lat": 38.7628325,
+  "lon": -9.1102154
+},
+{
+  "type": "node",
+  "id": 4178170874,
+  "lat": 38.7624628,
+  "lon": -9.1109088
+},
+{
+  "type": "node",
+  "id": 1829104219,
+  "lat": 38.7702629,
+  "lon": -9.1225796
+},
+{
+  "type": "node",
+  "id": 2124041599,
+  "lat": 38.7712311,
+  "lon": -9.1211260
+},
+{
+  "type": "node",
+  "id": 2124041603,
+  "lat": 38.7737156,
+  "lon": -9.1177322
+},
+{
+  "type": "node",
+  "id": 256975168,
+  "lat": 38.7629363,
+  "lon": -9.1063326
+},
+{
+  "type": "node",
+  "id": 256975169,
+  "lat": 38.7629382,
+  "lon": -9.1040538
+},
+{
+  "type": "node",
+  "id": 256975173,
+  "lat": 38.7629496,
+  "lon": -9.1012866
+},
+{
+  "type": "node",
+  "id": 256975174,
+  "lat": 38.7635496,
+  "lon": -9.1001204
+},
+{
+  "type": "node",
+  "id": 256975175,
+  "lat": 38.7640518,
+  "lon": -9.1000371
+},
+{
+  "type": "node",
+  "id": 256975177,
+  "lat": 38.7678191,
+  "lon": -9.0999720
+},
+{
+  "type": "node",
+  "id": 1123933005,
+  "lat": 38.7630181,
+  "lon": -9.1009015
+},
+{
+  "type": "node",
+  "id": 1123933029,
+  "lat": 38.7631564,
+  "lon": -9.1005392
+},
+{
+  "type": "node",
+  "id": 1123933113,
+  "lat": 38.7633363,
+  "lon": -9.1002644
+},
+{
+  "type": "node",
+  "id": 986704051,
+  "lat": 38.7688470,
+  "lon": -9.0999082
+},
+{
+  "type": "node",
+  "id": 2124041595,
+  "lat": 38.7694350,
+  "lon": -9.0999933
+},
+{
+  "type": "node",
+  "id": 2124041600,
+  "lat": 38.7732271,
+  "lon": -9.1012315
+},
+{
+  "type": "node",
+  "id": 1829104224,
+  "lat": 38.7754119,
+  "lon": -9.1150078
+},
+{
+  "type": "node",
+  "id": 1829104225,
+  "lat": 38.7757198,
+  "lon": -9.1136440
+},
+{
+  "type": "node",
+  "id": 1831350950,
+  "lat": 38.7751551,
+  "lon": -9.1156265
+},
+{
+  "type": "node",
+  "id": 2124041613,
+  "lat": 38.7756423,
+  "lon": -9.1142051
+},
+{
+  "type": "node",
+  "id": 1831350952,
+  "lat": 38.7748627,
+  "lon": -9.1029945
+},
+{
+  "type": "node",
+  "id": 1829104218,
+  "lat": 38.7747564,
+  "lon": -9.1023342
+},
+{
+  "type": "node",
+  "id": 1829104220,
+  "lat": 38.7744086,
+  "lon": -9.1017271
+},
+{
+  "type": "node",
+  "id": 1829104221,
+  "lat": 38.7746675,
+  "lon": -9.1020419
+},
+{
+  "type": "way",
+  "id": 23704509,
+  "nodes": [
+    256673563,
+    5895322563,
+    6001706462,
+    6001707692,
+    256673564,
+    256673565,
+    256673567,
+    1933844170,
+    1933844173,
+    5895322562,
+    5895322561,
+    256673569,
+    256673570,
+    5185768824,
+    256673575,
+    256673576,
+    5895322559,
+    5895322567,
+    256673577,
+    1122758176,
+    256673578,
+    256673579,
+    3989338976,
+    5895322566,
+    3989338978,
+    5895322565,
+    1120611090,
+    256673584,
+    265897891,
+    3946347395,
+    265897892,
+    256674870,
+    256675147,
+    256674873,
+    256674875,
+    1465237705,
+    256674877,
+    256971860,
+    1123904659,
+    256971861,
+    256971862,
+    256971863,
+    256971864,
+    1123904651,
+    256971865,
+    256971868,
+    355017757,
+    256971869,
+    4124472718,
+    4124472740,
+    256971871,
+    256971872,
+    256971874,
+    256971875,
+    256971876,
+    256971877,
+    5588842712
+  ]
+},
+{
+  "type": "way",
+  "id": 23704556,
+  "nodes": [
+    1696909109,
+    1117990566,
+    256673956,
+    1118902571,
+    256673957,
+    1118902563,
+    1508122644,
+    256673959,
+    5854351027,
+    256673960,
+    1124064445,
+    5895322574,
+    256673963,
+    5895322572,
+    5895322573,
+    5895322571,
+    256673965,
+    5895322570,
+    256673966,
+    5895322569,
+    1116365489,
+    224955560,
+    5185768824,
+    5895322560,
+    256673969,
+    256673970,
+    5895322568,
+    256673971,
+    256673972,
+    5934212180,
+    600134721,
+    256674204,
+    5938124255,
+    5938124259,
+    5938117132,
+    6014349443,
+    256674205,
+    6014349451,
+    4694358981,
+    256674207,
+    1120091025,
+    256674213,
+    256976570,
+    1122555688,
+    256976571,
+    1122555692,
+    256976572,
+    1122555693,
+    256976574,
+    1122555666,
+    256978157,
+    256978158,
+    256978159,
+    256978160,
+    1124214097,
+    256978161,
+    256978162,
+    5506455379,
+    1124214156,
+    256978163,
+    256978164,
+    1124214154,
+    1124214068,
+    256978165,
+    1124214064,
+    1124214053,
+    256978167,
+    256978169,
+    256978170,
+    1124214037,
+    256978580,
+    256978581,
+    256978583,
+    4638148697,
+    4638148698,
+    4638148699,
+    256979284,
+    256979285,
+    1124213951,
+    1124214157,
+    1124213942,
+    1124214019,
+    256979286,
+    1104951050,
+    505812296,
+    256979289,
+    1122550937,
+    256981312,
+    1122551018,
+    4647742916,
+    4647742915,
+    256981314,
+    4649667213,
+    1122550793,
+    4649667215,
+    256981315,
+    4649667214,
+    1122550870,
+    256981316,
+    256981317,
+    256981319,
+    1122551020,
+    1122550943,
+    1122550884,
+    256981320,
+    256981321,
+    1122550801,
+    1122550804,
+    1122550680,
+    1122550853,
+    256981325,
+    4119256418,
+    4119256415,
+    4119256414,
+    4119256416,
+    4119256417,
+    4119256419,
+    4119252201
+  ]
+},
+{
+  "type": "way",
+  "id": 96722045,
+  "nodes": [
+    264141144,
+    6238721715,
+    6238721714,
+    6238721713,
+    6238721712,
+    6238721711,
+    6238721710,
+    6238721709,
+    6238721708,
+    6238721707,
+    6251697745,
+    6251697747,
+    6238721706,
+    6238721705,
+    6238721704,
+    6238721703,
+    256673563
+  ]
+},
+{
+  "type": "way",
+  "id": 23727716,
+  "nodes": [
+    256972644,
+    1123933080,
+    256975142,
+    256975144,
+    1123933110,
+    1123933102,
+    1152032002,
+    256975148,
+    256975156,
+    256975157,
+    1123933018,
+    1123933104,
+    256975161,
+    256975163,
+    256975165,
+    4178170874,
+    4178170871,
+    4178170872,
+    1123933089,
+    4178170873,
+    4178170870,
+    1123933084,
+    256975166,
+    256975168,
+    256975169,
+    256975173,
+    1123933005,
+    1123933029,
+    1123933113,
+    256975174,
+    256975175,
+    256975177,
+    986704051,
+    2124041595,
+    2124041600,
+    1829104220,
+    1829104221,
+    1829104218,
+    1831350952,
+    1829104225,
+    2124041613,
+    1829104224,
+    1831350950,
+    2124041603,
+    2124041599,
+    1829104219,
+    2124041597,
+    2124041596,
+    2124041584,
+    1829104217
+  ]
+},
+{
+  "type": "way",
+  "id": 24789521,
+  "nodes": [
+    256976570,
+    1110776460,
+    1123843289,
+    3932495313,
+    1123843468,
+    246763972,
+    1110776405,
+    1110776472,
+    1123843368,
+    1123843449,
+    1110776407,
+    1110776395,
+    1123843260,
+    269342706,
+    1123843320,
+    256674873,
+    256675084,
+    256675085,
+    256972632,
+    256972633,
+    256972634,
+    256972638
+  ]
+},
+{
+  "type": "way",
+  "id": 637375699,
+  "nodes": [
+    6008965830,
+    1122627832,
+    6009066318,
+    246763949,
+    246763951,
+    246763953,
+    2182232694,
+    1122627861,
+    1122627815,
+    246763957,
+    246763959,
+    1122627855,
+    1122627836,
+    246763961,
+    1129611925,
+    1122627789,
+    246763964,
+    246763968,
+    3677782936,
+    246763972,
+    1120611088,
+    4547299280,
+    1120611267,
+    265896596,
+    3664596509,
+    3664596523,
+    1120091033
+  ]
+},
+{
+  "type": "way",
+  "id": 666365912,
+  "nodes": [
+    5938116031,
+    1120090985,
+    247051836,
+    1120110528,
+    247051838,
+    247051839,
+    264141144
+  ]
+},
+{
+  "type": "way",
+  "id": 638620591,
+  "nodes": [
+    1120090994,
+    6018693971,
+    6018580831,
+    6018580829,
+    6018580832,
+    6018693983,
+    5938116031
+  ]
+},
+{
+  "type": "way",
+  "id": 638620592,
+  "nodes": [
+    1120090994,
+    6018693970,
+    6018580830,
+    5938124258,
+    6018580833,
+    6018693982,
+    5938116031
+  ]
+},
+{
+  "type": "way",
+  "id": 638620593,
+  "nodes": [
+    1120090990,
+    1120090949,
+    1120090984,
+    6014349448,
+    5938124260,
+    6014349455,
+    1120090994
+  ]
+},
+{
+  "type": "way",
+  "id": 96722041,
+  "nodes": [
+    1120091033,
+    1120090990
+  ]
+},
+{
+  "type": "way",
+  "id": 22875902,
+  "nodes": [
+    256672963,
+    1933000047,
+    245938003,
+    5588842699,
+    1120180700,
+    3995469401,
+    245937993,
+    420335783,
+    5588912781,
+    245937995,
+    5110377795,
+    1120180469,
+    245937996,
+    245937998
+  ]
+},
+{
+  "type": "way",
+  "id": 22917441,
+  "nodes": [
+    5588844246,
+    1122627824,
+    246763933,
+    246763935,
+    246763941,
+    6008965817
+  ]
+},
+{
+  "type": "way",
+  "id": 584733306,
+  "nodes": [
+    5588842712,
+    5588842713,
+    5588842714,
+    5588842715,
+    5588842716,
+    5588842717,
+    5588842718,
+    5588842696,
+    5588842719,
+    5588842720,
+    5588844229,
+    5588842683,
+    5588844230,
+    5588844231,
+    5588844232,
+    5588844233,
+    5588844234,
+    5588844235,
+    5588844236,
+    5588844237,
+    5588844238,
+    5588844239,
+    5588844240,
+    5588844241,
+    5588844242,
+    5588844243,
+    5588844244,
+    245937998
+  ]
+},
+{
+  "type": "way",
+  "id": 584739903,
+  "nodes": [
+    5588844267,
+    5588844253,
+    5588844252,
+    5588912782,
+    5588844251,
+    5588844250,
+    5588844249,
+    5588844248,
+    5588844247,
+    5588844246
+  ]
+},
+{
+  "type": "way",
+  "id": 584763816,
+  "nodes": [
+    246763928,
+    1122627770,
+    1122627867,
+    246763932,
+    5588844246
+  ]
+},
+{
+  "type": "way",
+  "id": 22875903,
+  "nodes": [
+    245937998,
+    245938000,
+    245938001
+  ]
+},
+{
+  "type": "way",
+  "id": 637367434,
+  "nodes": [
+    6008965817,
+    246763946,
+    6008965829,
+    6008965830
+  ]
+},
+{
+  "type": "way",
+  "id": 96730109,
+  "nodes": [
+    245937959,
+    245937960,
+    1120180945,
+    245937961,
+    245937962,
+    5588842681,
+    245937967,
+    1120180786
+  ]
+},
+{
+  "type": "way",
+  "id": 584739902,
+  "nodes": [
+    5588912780,
+    5588844224,
+    5588844223,
+    5588844222,
+    5588844221
+  ]
+},
+{
+  "type": "way",
+  "id": 96730129,
+  "nodes": [
+    1120180786,
+    3096908240,
+    246763928
+  ]
+},
+{
+  "type": "way",
+  "id": 584733308,
+  "nodes": [
+    5588844221,
+    5588842685,
+    5588842686,
+    5588844257,
+    5588844258,
+    5588844259,
+    5588844260,
+    5588844261,
+    5588844254,
+    5588844262,
+    5588844263,
+    5588844264,
+    5588844265,
+    5588844266,
+    5588844267
+  ]
+},
+{
+  "type": "way",
+  "id": 22875900,
+  "nodes": [
+    245937923,
+    245937924,
+    245937925,
+    1122627856,
+    1122627822,
+    1122627846,
+    1122627850,
+    245937928,
+    245937929,
+    245937930,
+    1122627843,
+    5679961383,
+    245937932,
+    245937922,
+    245937935,
+    1122627858,
+    245937937,
+    1122627808,
+    1122627841,
+    245937939,
+    1122627814,
+    1122627795,
+    1302844519,
+    245937941,
+    1122508386,
+    1122627783,
+    245937942,
+    1122627812,
+    245937948,
+    1122627864,
+    245937949,
+    245937950,
+    245937951,
+    1122627863,
+    1122627833,
+    245937955
+  ]
+},
+{
+  "type": "way",
+  "id": 22875901,
+  "nodes": [
+    245937955,
+    3096908254,
+    1120180970,
+    245937959
+  ]
+},
+{
+  "type": "way",
+  "id": 584733305,
+  "nodes": [
+    245937955,
+    5588844227,
+    5588844226,
+    5588844225,
+    5588912780
+  ]
+},
+{
+  "type": "way",
+  "id": 584763811,
+  "nodes": [
+    5588842712,
+    256672963
+  ]
+},
+{
+  "type": "way",
+  "id": 14813733,
+  "nodes": [
+    146311301,
+    146311308,
+    1122508568,
+    146311320,
+    146311329,
+    146311351,
+    5589147967,
+    146311358,
+    5589147944,
+    5589147953,
+    1122508413,
+    5589147969,
+    146311371,
+    5589147958,
+    5589147985,
+    146311382,
+    5589147954,
+    5589147940,
+    146311399,
+    5589147979,
+    146311410,
+    146311432
+  ]
+},
+{
+  "type": "way",
+  "id": 14813737,
+  "nodes": [
+    146311477,
+    146311483,
+    146311488,
+    146311498,
+    146311513,
+    146311520,
+    146311529,
+    146311534,
+    146311453
+  ]
+},
+{
+  "type": "way",
+  "id": 14813734,
+  "nodes": [
+    146311453,
+    146311461,
+    146311301
+  ]
+},
+{
+  "type": "way",
+  "id": 14813738,
+  "nodes": [
+    146311563,
+    146311571
+  ]
+},
+{
+  "type": "way",
+  "id": 96874723,
+  "nodes": [
+    1122508322,
+    146311477
+  ]
+},
+{
+  "type": "way",
+  "id": 96874727,
+  "nodes": [
+    146311571,
+    1122508322
+  ]
+},
+{
+  "type": "way",
+  "id": 584763791,
+  "nodes": [
+    146311563,
+    245937923
+  ]
+},
+{
+  "type": "way",
+  "id": 96874721,
+  "nodes": [
+    146311432,
+    146311442,
+    146311452,
+    1122508470
+  ]
+},
+{
+  "type": "way",
+  "id": 23727714,
+  "nodes": [
+    256972638,
+    2241923428,
+    3514005519,
+    3514005520,
+    3514005522,
+    256972644
+  ]
+}
+
+  ]
+}
