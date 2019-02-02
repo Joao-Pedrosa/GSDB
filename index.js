@@ -14,6 +14,11 @@ app.get('/lisbon-metro', (req, res) => {
   res.json(lisbonMetro);
 });
 
+app.get('/example', (req, res) => {
+  const example = require('./data/example.json');
+  res.json(example);
+});
+
 app.get('/test-db-connection', (req, res) => {
   db.testConnection((err, data) => {
     if (err) throw err;
