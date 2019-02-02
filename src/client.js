@@ -1,4 +1,3 @@
-const request = require('superagent');
 const d3 = require('d3');
 const tubeMap = require('d3-tube-map');
 d3.tubeMap = tubeMap.tubeMap;
@@ -16,14 +15,10 @@ const map = d3.tubeMap()
     left: 100,
   });
 d3.json('/example').then((data) => {
+  console.dir(data);
   container.datum(data).call(map);
 });
 
-request
-  .get('/lisbon-metro')
-  .then((res) => {
-    console.dir(res.body);
-  })
-  .catch((err) => {
-    console.log(`Request failed: ${err.message}`);
-  });
+d3.json('/lisbon-metro').then((data) => {
+  console.dir(data);
+});
