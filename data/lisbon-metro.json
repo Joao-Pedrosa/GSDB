@@ -1,0 +1,845 @@
+{
+  "stations": {
+    "Odivelas": {
+      "id": 146311452,
+      "name": "Odivelas",
+      "label": "Odivelas",
+      "position": {
+        "lat": 38.79326,
+        "lon": -9.1730002
+      }
+    },
+    "Senhor Roubado": {
+      "id": 146311461,
+      "name": "Senhor Roubado",
+      "label": "Senhor Roubado",
+      "position": {
+        "lat": 38.7856422,
+        "lon": -9.1718447
+      }
+    },
+    "Ameixoeira": {
+      "id": 245937922,
+      "name": "Ameixoeira",
+      "label": "Ameixoeira",
+      "position": {
+        "lat": 38.7796411,
+        "lon": -9.1594571
+      }
+    },
+    "Lumiar": {
+      "id": 245937941,
+      "name": "Lumiar",
+      "label": "Lumiar",
+      "position": {
+        "lat": 38.7727302,
+        "lon": -9.160113
+      }
+    },
+    "Quinta das Conchas": {
+      "id": 245937950,
+      "name": "Quinta das Conchas",
+      "label": "Quinta das Conchas",
+      "position": {
+        "lat": 38.7674532,
+        "lon": -9.1555486
+      }
+    },
+    "Campo Grande": {
+      "id": 5216412760,
+      "name": "Campo Grande",
+      "label": "Campo Grande",
+      "position": {
+        "lat": 38.7601887,
+        "lon": -9.157877
+      }
+    },
+    "Cidade Universitária": {
+      "id": 246763946,
+      "name": "Cidade Universitária",
+      "label": "Cidade Universitária",
+      "position": {
+        "lat": 38.7515237,
+        "lon": -9.1590546
+      }
+    },
+    "Entrecampos": {
+      "id": 246763964,
+      "name": "Entrecampos",
+      "label": "Entrecampos",
+      "position": {
+        "lat": 38.7470474,
+        "lon": -9.148214
+      }
+    },
+    "Campo Pequeno": {
+      "id": 246763968,
+      "name": "Campo Pequeno",
+      "label": "Campo Pequeno",
+      "position": {
+        "lat": 38.7411137,
+        "lon": -9.1467947
+      }
+    },
+    "Saldanha": {
+      "id": 246763972,
+      "name": "Saldanha",
+      "label": "Saldanha",
+      "position": {
+        "lat": 38.7351299,
+        "lon": -9.1451853
+      }
+    },
+    "Picoas": {
+      "id": 265896596,
+      "name": "Picoas",
+      "label": "Picoas",
+      "position": {
+        "lat": 38.7310021,
+        "lon": -9.146525
+      }
+    },
+    "Marquês de Pombal": {
+      "name": "Marquês de Pombal",
+      "label": "Marquês de Pombal",
+      "position": {
+        "lat": 38.7247048,
+        "lon": -9.1503014
+      }
+    },
+    "Rato": {
+      "id": 247051839,
+      "name": "Rato",
+      "label": "Rato",
+      "position": {
+        "lat": 38.7200603,
+        "lon": -9.1548735
+      }
+    },
+    "Carnide": {
+      "id": 256979289,
+      "name": "Carnide",
+      "label": "Carnide",
+      "position": {
+        "lat": 38.7592057,
+        "lon": -9.1926491
+      }
+    },
+    "Pontinha": {
+      "id": 256981317,
+      "name": "Pontinha",
+      "label": "Pontinha",
+      "position": {
+        "lat": 38.7622108,
+        "lon": -9.1968418
+      }
+    },
+    "Alfornelos": {
+      "id": 256981321,
+      "name": "Alfornelos",
+      "label": "Alfornelos",
+      "position": {
+        "lat": 38.7603326,
+        "lon": -9.2043586
+      }
+    },
+    "Amadora Este": {
+      "id": 256981325,
+      "name": "Amadora Este",
+      "label": "Amadora Este",
+      "position": {
+        "lat": 38.7583909,
+        "lon": -9.2183167
+      }
+    },
+    "Reboleira": {
+      "id": 4119252201,
+      "name": "Reboleira",
+      "label": "Reboleira",
+      "position": {
+        "lat": 38.7523013,
+        "lon": -9.2240282
+      }
+    },
+    "Colégio Militar/Luz": {
+      "id": 256978583,
+      "name": "Colégio Militar/Luz",
+      "label": "Colégio Militar/Luz",
+      "position": {
+        "lat": 38.7534253,
+        "lon": -9.1892531
+      }
+    },
+    "Alto dos Moínhos": {
+      "id": 256978170,
+      "name": "Alto dos Moínhos",
+      "label": "Alto dos Moínhos",
+      "position": {
+        "lat": 38.7498954,
+        "lon": -9.1797946
+      }
+    },
+    "Laranjeiras": {
+      "id": 256978165,
+      "name": "Laranjeiras",
+      "label": "Laranjeiras",
+      "position": {
+        "lat": 38.7482497,
+        "lon": -9.1730362
+      }
+    },
+    "São Sebastião": {
+      "id": 256976570,
+      "name": "São Sebastião",
+      "label": "São Sebastião",
+      "position": {
+        "lat": 38.7343017,
+        "lon": -9.1539497
+      }
+    },
+    "Praça de Espanha": {
+      "id": 256976574,
+      "name": "Praça de Espanha",
+      "label": "Praça de Espanha",
+      "position": {
+        "lat": 38.7377417,
+        "lon": -9.1592294
+      }
+    },
+    "Jardim Zoológico": {
+      "id": 256978160,
+      "name": "Jardim Zoológico",
+      "label": "Jardim Zoológico",
+      "position": {
+        "lat": 38.7420882,
+        "lon": -9.1689132
+      }
+    },
+    "Parque": {
+      "id": 256674213,
+      "name": "Parque",
+      "label": "Parque",
+      "position": {
+        "lat": 38.7297972,
+        "lon": -9.1500806
+      }
+    },
+    "Avenida": {
+      "id": 600134721,
+      "name": "Avenida",
+      "label": "Avenida",
+      "position": {
+        "lat": 38.7190102,
+        "lon": -9.144831
+      }
+    },
+    "Restauradores": {
+      "id": 256673972,
+      "name": "Restauradores",
+      "label": "Restauradores",
+      "position": {
+        "lat": 38.7152996,
+        "lon": -9.1416368
+      }
+    },
+    "Baixa-Chiado": {
+      "id": 5185768824,
+      "name": "Baixa-Chiado",
+      "label": "Baixa-Chiado",
+      "position": {
+        "lat": 38.7105436,
+        "lon": -9.1400971
+      }
+    },
+    "Terreiro do Paço": {
+      "id": 256673960,
+      "name": "Terreiro do Paço",
+      "label": "Terreiro do Paço",
+      "position": {
+        "lat": 38.7070285,
+        "lon": -9.1343473
+      }
+    },
+    "Santa Apolónia": {
+      "id": 1696909109,
+      "name": "Santa Apolónia",
+      "label": "Santa Apolónia",
+      "position": {
+        "lat": 38.7136966,
+        "lon": -9.1224184
+      }
+    },
+    "Cais do Sodré": {
+      "id": 256673563,
+      "name": "Cais do Sodré",
+      "label": "Cais do Sodré",
+      "position": {
+        "lat": 38.7061368,
+        "lon": -9.1451115
+      }
+    },
+    "Rossio": {
+      "id": 256673579,
+      "name": "Rossio",
+      "label": "Rossio",
+      "position": {
+        "lat": 38.7140693,
+        "lon": -9.137942
+      }
+    },
+    "Martim Moniz": {
+      "id": 265897891,
+      "name": "Martim Moniz",
+      "label": "Martim Moniz",
+      "position": {
+        "lat": 38.7169196,
+        "lon": -9.1358945
+      }
+    },
+    "Intendente": {
+      "id": 265897892,
+      "name": "Intendente",
+      "label": "Intendente",
+      "position": {
+        "lat": 38.7226276,
+        "lon": -9.1353016
+      }
+    },
+    "Anjos": {
+      "id": 256674870,
+      "name": "Anjos",
+      "label": "Anjos",
+      "position": {
+        "lat": 38.7262651,
+        "lon": -9.1349411
+      }
+    },
+    "Alameda": {
+      "id": 256674873,
+      "name": "Alameda",
+      "label": "Alameda",
+      "position": {
+        "lat": 38.7373541,
+        "lon": -9.1337842
+      }
+    },
+    "Arroios": {
+      "id": 256675147,
+      "name": "Arroios",
+      "label": "Arroios",
+      "position": {
+        "lat": 38.7335128,
+        "lon": -9.1342227
+      }
+    },
+    "Areeiro": {
+      "id": 1465237705,
+      "name": "Areeiro",
+      "label": "Areeiro",
+      "position": {
+        "lat": 38.7423786,
+        "lon": -9.1333962
+      }
+    },
+    "Roma": {
+      "id": 256971868,
+      "name": "Roma",
+      "label": "Roma",
+      "position": {
+        "lat": 38.7486692,
+        "lon": -9.1415844
+      }
+    },
+    "Alvalade": {
+      "id": 256971869,
+      "name": "Alvalade",
+      "label": "Alvalade",
+      "position": {
+        "lat": 38.753034,
+        "lon": -9.1439777
+      }
+    },
+    "Telheiras": {
+      "id": 245938001,
+      "name": "Telheiras",
+      "label": "Telheiras",
+      "position": {
+        "lat": 38.7600193,
+        "lon": -9.1666963
+      }
+    },
+    "Olaias": {
+      "id": 256972634,
+      "name": "Olaias",
+      "label": "Olaias",
+      "position": {
+        "lat": 38.7394453,
+        "lon": -9.1239422
+      }
+    },
+    "Bela Vista": {
+      "id": 256975148,
+      "name": "Bela Vista",
+      "label": "Bela Vista",
+      "position": {
+        "lat": 38.7475415,
+        "lon": -9.1176782
+      }
+    },
+    "Chelas": {
+      "id": 256975157,
+      "name": "Chelas",
+      "label": "Chelas",
+      "position": {
+        "lat": 38.7548276,
+        "lon": -9.1138872
+      }
+    },
+    "Olivais": {
+      "id": 256975161,
+      "name": "Olivais",
+      "label": "Olivais",
+      "position": {
+        "lat": 38.7608482,
+        "lon": -9.1117135
+      }
+    },
+    "Cabo Ruivo": {
+      "id": 256975169,
+      "name": "Cabo Ruivo",
+      "label": "Cabo Ruivo",
+      "position": {
+        "lat": 38.7629382,
+        "lon": -9.1040538
+      }
+    },
+    "Oriente": {
+      "id": 256975177,
+      "name": "Oriente",
+      "label": "Oriente",
+      "position": {
+        "lat": 38.7678191,
+        "lon": -9.099972
+      }
+    },
+    "Moscavide": {
+      "id": 1831350952,
+      "name": "Moscavide",
+      "label": "Moscavide",
+      "position": {
+        "lat": 38.7748627,
+        "lon": -9.1029945
+      }
+    },
+    "Encarnação": {
+      "id": 1831350950,
+      "name": "Encarnação",
+      "label": "Encarnação",
+      "position": {
+        "lat": 38.7751551,
+        "lon": -9.1156265
+      }
+    },
+    "Aeroporto": {
+      "id": 1829104217,
+      "name": "Aeroporto",
+      "label": "Aeroporto",
+      "position": {
+        "lat": 38.7690806,
+        "lon": -9.1284699
+      }
+    }
+  },
+  "lines": [
+    {
+      "name": "Amarela",
+      "color": "#F4BC18",
+      "shiftCoords": [0, 0],
+      "nodes": [
+        {
+          "coords": [30, 45],
+          "labelPos": "W",
+          "name": "Odivelas"
+        },
+        {
+          "coords": [30, 41],
+          "labelPos": "W",
+          "name": "Senhor Roubado"
+        },
+        {
+          "coords": [30, 37],
+          "labelPos": "W",
+          "name": "Ameixoeira"
+        },
+        {
+          "coords": [30, 33],
+          "labelPos": "W",
+          "name": "Lumiar"
+        },
+        {
+          "coords": [30, 29],
+          "labelPos": "W",
+          "name": "Quinta das Conchas"
+        },
+        {
+          "coords": [30, 25],
+          "labelPos": "NE",
+          "marker": "interchange",
+          "name": "Campo Grande"
+        },
+        {
+          "coords": [30, 21],
+          "labelPos": "W",
+          "name": "Cidade Universitária"
+        },
+        {
+          "coords": [30, 17],
+          "labelPos": "W",
+          "name": "Entrecampos"
+        },
+        {
+          "coords": [30, 13],
+          "labelPos": "W",
+          "name": "Campo Pequeno"
+        },
+        {
+          "coords": [30, 9],
+          "labelPos": "NE",
+          "marker": "interchange",
+          "name": "Saldanha"
+        },
+        {
+          "coords": [30, 6],
+          "labelPos": "E",
+          "name": "Picoas"
+        },
+        {
+          "coords": [30, 3],
+          "labelPos": "SW",
+          "marker": "interchange",
+          "name": "Marquês de Pombal"
+        },
+        {
+          "coords": [30, 1]
+        },
+        {
+          "coords": [29, -1],
+          "dir": "E"
+        },
+        {
+          "coords": [26, -4],
+          "labelPos": "NW",
+          "name": "Rato"
+        }
+      ]
+    },
+    {
+      "name": "Azul",
+      "color": "#5E82C4",
+      "shiftCoords": [0, 0],
+      "nodes": [
+        {
+          "coords": [-10, 39],
+          "labelPos": "N",
+          "name": "Reboleira"
+        },
+        {
+          "coords": [-7, 39]
+        },
+        {
+          "coords": [-5, 38],
+          "dir": "E"
+        },
+        {
+          "coords": [-3, 36],
+          "labelPos": "SW",
+          "name": "Amadora Este"
+        },
+        {
+          "coords": [0, 33],
+          "labelPos": "SW",
+          "name": "Alfornelos"
+        },
+        {
+          "coords": [3, 30],
+          "labelPos": "SW",
+          "name": "Pontinha"
+        },
+        {
+          "coords": [6, 27],
+          "labelPos": "SW",
+          "name": "Carnide"
+        },
+        {
+          "coords": [9, 24],
+          "labelPos": "SW",
+          "name": "Colégio Militar/Luz"
+        },
+        {
+          "coords": [12, 21],
+          "labelPos": "SW",
+          "name": "Alto dos Moínhos"
+        },
+        {
+          "coords": [15, 18],
+          "labelPos": "SW",
+          "name": "Laranjeiras"
+        },
+        {
+          "coords": [18, 15],
+          "labelPos": "SW",
+          "name": "Jardim Zoológico"
+        },
+        {
+          "coords": [21, 12],
+          "labelPos": "SW",
+          "name": "Praça de Espanha"
+        },
+        {
+          "coords": [24, 9],
+          "labelPos": "SW",
+          "marker": "interchange",
+          "name": "São Sebastião"
+        },
+        {
+          "coords": [27, 6],
+          "labelPos": "SW",
+          "name": "Parque"
+        },
+        {
+          "coords": [30, 3],
+          "labelPos": "SW",
+          "marker": "interchange",
+          "name": "Marquês de Pombal",
+          "hide": true
+        },
+        {
+          "coords": [33, 0],
+          "labelPos": "NE",
+          "name": "Avenida"
+        },
+        {
+          "coords": [36, -3],
+          "labelPos": "SW",
+          "name": "Restauradores"
+        },
+        {
+          "coords": [39, -6],
+          "labelPos": "E",
+          "marker": "interchange",
+          "name": "Baixa-Chiado"
+        },
+        {
+          "coords": [42, -9]
+        },
+        {
+          "coords": [44, -10],
+          "dir": "E"
+        },
+        {
+          "coords": [46, -10],
+          "labelPos": "S",
+          "name": "Terreiro do Paço"
+        },
+        {
+          "coords": [50, -10],
+          "labelPos": "N",
+          "name": "Santa Apolónia"
+        }
+      ]
+    },
+    {
+      "name": "Verde",
+      "color": "#2F9B9C",
+      "shiftCoords": [0, 0],
+      "nodes": [
+        {
+          "coords": [35, -10],
+          "labelPos": "S",
+          "name": "Cais do Sodré"
+        },
+        {
+          "coords": [38, -10]
+        },
+        {
+          "coords": [39, -9],
+          "dir": "E"
+        },
+        {
+          "coords": [39, -6],
+          "hide": true,
+          "labelPos": "NE",
+          "marker": "interchange",
+          "name": "Baixa-Chiado"
+        },
+        {
+          "coords": [39, -3.5],
+          "labelPos": "E",
+          "name": "Rossio"
+        },
+        {
+          "coords": [39, -1],
+          "labelPos": "E",
+          "name": "Martim Moniz"
+        },
+        {
+          "coords": [39, 1.5],
+          "labelPos": "E",
+          "name": "Intendente"
+        },
+        {
+          "coords": [39, 4],
+          "labelPos": "E",
+          "name": "Anjos"
+        },
+        {
+          "coords": [39, 6.5],
+          "labelPos": "E",
+          "name": "Arroios"
+        },
+        {
+          "coords": [39, 9],
+          "labelPos": "NE",
+          "marker": "interchange",
+          "name": "Alameda"
+        },
+        {
+          "coords": [39, 13],
+          "labelPos": "E",
+          "name": "Areeiro"
+        },
+        {
+          "coords": [39, 17],
+          "labelPos": "E",
+          "name": "Roma"
+        },
+        {
+          "coords": [39, 21],
+          "labelPos": "E",
+          "name": "Alvalade"
+        },
+        {
+          "coords": [39, 24]
+        },
+        {
+          "coords": [38, 25],
+          "dir": "N"
+        },
+        {
+          "coords": [30, 25],
+          "hide": true,
+          "labelPos": "NE",
+          "marker": "interchange",
+          "name": "Campo Grande"
+        },
+        {
+          "coords": [25, 25],
+          "labelPos": "N",
+          "name": "Telheiras"
+        }
+      ]
+    },
+    {
+      "name": "Vermelha",
+      "color": "#DF096F",
+      "shiftCoords": [0, 0],
+      "nodes": [
+        {
+          "coords": [24, 9],
+          "hidden": true,
+          "labelPos": "SW",
+          "marker": "interchange",
+          "name": "São Sebastião"
+        },
+        {
+          "coords": [30, 9],
+          "hidden": true,
+          "labelPos": "NE",
+          "marker": "interchange",
+          "name": "Saldanha"
+        },
+        {
+          
+          "coords": [39, 9],
+          "hidden": true,
+          "labelPos": "SE",
+          "marker": "interchange",
+          "name": "Alameda"
+        },
+        {
+          "coords": [43, 9]
+        },
+        {
+          "coords": [45, 10],
+          "dir": "N"
+        },
+        {
+          "coords": [47, 12],
+          "labelPos": "SE",
+          "name": "Olaias"
+        },
+        {
+          "coords": [50, 15],
+          "labelPos": "SE",
+          "name": "Bela Vista"
+        },
+        {
+          "coords": [53, 18],
+          "labelPos": "SE",
+          "name": "Chelas"
+        },
+        {
+          "coords": [56, 21],
+          "labelPos": "SE",
+          "name": "Olivais"
+        },
+        {
+          "coords": [59, 24],
+          "labelPos": "NW",
+          "name": "Cabo Ruivo"
+        },
+        {
+          "coords": [61, 26]
+        },
+        {
+          "coords": [62, 28],
+          "dir": "N"
+        },
+        {
+          "coords": [62, 30],
+          "labelPos": "W",
+          "name": "Oriente"
+        },
+        {
+          "coords": [62, 33]
+        },
+        {
+          "coords": [61, 34],
+          "dir": "S"
+        },
+        {
+          "coords": [60, 34],
+          "labelPos": "N",
+          "name": "Moscavide"
+        },
+        {
+          "coords": [56, 34],
+          "labelPos": "S",
+          "name": "Encarnação"
+        },
+        {
+          "coords": [54, 34]
+        },
+        {
+          "coords": [52, 35],
+          "dir": "E"
+        },
+        {
+          "coords": [50, 37],
+          "labelPos": "NE",
+          "name": "Aeroporto"
+        }
+      ]
+    }
+  ]
+}

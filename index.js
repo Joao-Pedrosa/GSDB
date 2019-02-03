@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const db = require('./dbaccess');
-const lisbonMetro = require('./data/lisbon-metro-formatted.json');
+const lisbonMetro = require('./data/lisbon-metro.json');
 const PORT = process.env.PORT || 5000;
 const app = express();
 
@@ -12,11 +12,6 @@ app.get('/', (req, res) => {
 
 app.get('/lisbon-metro', (req, res) => {
   res.json(lisbonMetro);
-});
-
-app.get('/example', (req, res) => {
-  const example = require('./data/example.json');
-  res.json(example);
 });
 
 app.get('/test-db-connection', (req, res) => {
