@@ -2,4 +2,5 @@
 *.env
 /node_modules
 /public/js
+/data/*-formatted.json
 package-lock.json

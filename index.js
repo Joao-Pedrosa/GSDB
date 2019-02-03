@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const db = require('./dbaccess');
-const lisbonMetro = require('./data/lisbon-metro.json');
+const lisbonMetro = require('./data/lisbon-metro-formatted.json');
 const PORT = process.env.PORT || 5000;
 const app = express();
 
