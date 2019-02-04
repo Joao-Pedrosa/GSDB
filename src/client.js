@@ -1,5 +1,6 @@
 const d3 = require('d3');
 const tubeMap = require('d3-tube-map');
+const showModal = require('./modal');
 
 d3.tubeMap = tubeMap.tubeMap;
 const map = d3.tubeMap();
@@ -8,7 +9,6 @@ const width = container.node().getBoundingClientRect().width;
 const height = container.node().getBoundingClientRect().height;
 
 const getBarsAround = (name, data) => {
-  console.log(name);
   const lat = data.stations[name].position.lat;
   const lon = data.stations[name].position.lon;
   d3.json([
@@ -21,7 +21,7 @@ const getBarsAround = (name, data) => {
       ...(bar.tags['addr:housenumber']) && { housenumber: bar.tags['addr:housenumber'] },
       ...(bar.tags.website) && { website: bar.tags.website },
     }));
-    console.dir(bars);
+    showModal(name, bars);
   })
 };
 
@@ -33,7 +33,7 @@ const initMap = (data) => {
       top: 20,
       right: 20,
       bottom: 20,
-      left: 120,
+      left: 20,
     })
     .on('click', (name) => {
       getBarsAround(name, data);
