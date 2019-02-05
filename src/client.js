@@ -5,8 +5,8 @@ const showModal = require('./modal');
 d3.tubeMap = tubeMap.tubeMap;
 const map = d3.tubeMap();
 const container = d3.select('#map');
-const width = container.node().getBoundingClientRect().width;
-const height = container.node().getBoundingClientRect().height;
+const width = 1200;
+const height = 1000;
 
 const getBarsAround = (name, data) => {
   const lat = data.stations[name].position.lat;
@@ -39,6 +39,19 @@ const initMap = (data) => {
       getBarsAround(name, data);
     });
   container.datum(data).call(map);
+  const svg = container.select('svg');
+  const zoomed = () => {
+    svg.select('g').attr('transform', d3.event.transform.toString());
+  };
+  const zoom = d3
+    .zoom()
+    .scaleExtent([0.2, 2])
+    .on('zoom', zoomed);
+  const zoomContainer = svg.call(zoom);
+  const initialScale = 1.2;
+  const initialTranslate = [50, 150];
+  zoom.scaleTo(zoomContainer, initialScale);
+  zoom.translateTo(zoomContainer, initialTranslate[0], initialTranslate[1]);
 };
 
 d3.json('/lisbon-metro').then((data) => {
