@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
+    "heroku-prebuild": "npm install --dev",
+    "postinstall": "npm run build",
     "process-data": "node process-data.js",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
